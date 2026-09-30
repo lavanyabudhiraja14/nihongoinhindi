@@ -3,7 +3,9 @@
  */
 export function getCsrfToken(): string | null {
   if (typeof document === 'undefined') return null;
+
   const match = document.cookie.match(/(?:^|;\s*)nihongo_csrf=([^;]*)/);
+
   return match ? decodeURIComponent(match[1]) : null;
 }
 
@@ -12,11 +14,12 @@ export interface ApiError {
   status: number;
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL?.trim().replace(/\/+$/, '');
+// Render backend URL
+const API_BASE_URL = 'https://nihongoinhindi.onrender.com';
 
 /**
- * Standard fetch wrapper with automatic CSRF token header attachment
- * and credentials inclusion.
+ * Standard fetch wrapper with automatic CSRF token
+ * header attachment and credentials inclusion.
  */
 export async function apiFetch<T>(
   url: string,
@@ -24,15 +27,18 @@ export async function apiFetch<T>(
 ): Promise<T> {
   const headers = new Headers(options.headers || {});
 
+  // For state-mutating requests, attach X-CSRF-Token if available
   const method = (options.method || 'GET').toUpperCase();
 
   if (['POST', 'PATCH', 'DELETE', 'PUT'].includes(method)) {
     const csrf = getCsrfToken();
+
     if (csrf && !headers.has('X-CSRF-Token')) {
       headers.set('X-CSRF-Token', csrf);
     }
   }
 
+  // Set JSON content-type if body is a JSON string
   if (
     options.body &&
     typeof options.body === 'string' &&
@@ -41,16 +47,10 @@ export async function apiFetch<T>(
     headers.set('Content-Type', 'application/json');
   }
 
-  // Use the Render backend for relative API paths.
+  // Construct the complete backend URL
   const requestUrl = /^https?:\/\//i.test(url)
     ? url
-    : API_BASE_URL
-      ? `${API_BASE_URL}${url.startsWith('/') ? url : `/${url}`}`
-      : (() => {
-        throw new Error(
-          'NEXT_PUBLIC_API_URL is missing. Configure it in Vercel.'
-        );
-      })();
+    : `${API_BASE_URL}${url.startsWith('/') ? url : `/${url}`}`;
 
   const res = await fetch(requestUrl, {
     ...options,
@@ -70,7 +70,10 @@ export async function apiFetch<T>(
 
         if (typeof data.detail === 'string') {
           errorDetail = data.detail;
-        } else if (Array.isArray(data.detail) && data.detail[0]?.msg) {
+        } else if (
+          Array.isArray(data.detail) &&
+          data.detail[0]?.msg
+        ) {
           errorDetail = data.detail[0].msg;
         }
       }
@@ -86,15 +89,16 @@ export async function apiFetch<T>(
         errorDetail =
           'सर्वर में समस्या आई है। कृपया कुछ समय बाद पुनः प्रयास करें।';
       } else if (res.status === 401) {
-        errorDetail = 'अमान्य ईमेल या पासवर्ड। कृपया पुनः जांचें।';
+        errorDetail =
+          'अमान्य ईमेल या पासवर्ड। कृपया पुनः जांचें।';
       } else {
-        errorDetail = 'अनपेक्षित त्रुटि हुई। कृपया पुनः प्रयास करें।';
+        errorDetail =
+          'अनपेक्षित त्रुटि हुई। कृपया पुनः प्रयास करें।';
       }
     }
 
-    const err = new Error(errorDetail) as Error & ApiError & {
-      detail?: any;
-    };
+    const err = new Error(errorDetail) as Error &
+      ApiError & { detail?: any };
 
     err.status = res.status;
     err.message = errorDetail;
@@ -103,6 +107,7 @@ export async function apiFetch<T>(
     throw err;
   }
 
+  // If response is empty (e.g. 204 or void)
   const contentType = res.headers.get('content-type');
 
   if (contentType && contentType.includes('application/json')) {
