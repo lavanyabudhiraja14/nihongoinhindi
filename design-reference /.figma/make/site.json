@@ -1,0 +1,10 @@
+{
+  "description": "Learn Japanese up to N5 level through a user-friendly platform designed for Hindi speakers, featuring a clean and minimalist interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

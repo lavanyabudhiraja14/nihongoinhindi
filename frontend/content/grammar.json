@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "grammar-1-wa-desu",
+    "pointNumber": 1,
+    "titleJp": "X は Y です",
+    "titleHindi": "विषय चिह्न 'は' और '〜है/हूँ' (Desu)",
+    "formula": "X は Y です (X wa Y desu)",
+    "explanationHindi": "जापानी में 'は' (उच्चारण 'wa') वाक्य के मुख्य विषय (Topic) को दर्शाता है कि 'जहाँ तक X की बात है...'\n'です' (desu) वाक्य के अंत में विनम्रता से 'है / हूँ / हैं' का काम करता है।\nध्यान दें: 'は' हिंदी के 'ने' या किसी सीधे कारक के बराबर नहीं है।",
+    "hindiComparison": "संरचना हिंदी जैसी ही (SOV) है: [कर्ता/विषय] + [पूरक/संज्ञा] + [है/हूँ क्रिया]।\nजैसे हिंदी में 'मैं राहुल हूँ' = जापानी में 'Watashi wa Rahuru desu'.",
+    "examples": [
+      {
+        "jp": "私は学生です。",
+        "romaji": "Watashi wa gakusei desu.",
+        "hindi": "मैं छात्र हूँ।",
+        "noteHindi": "Watashi (मैं) + wa (विषय) + gakusei (छात्र) + desu (हूँ)।"
+      },
+      {
+        "jp": "田中さんは先生です。",
+        "romaji": "Tanaka-san wa sensei desu.",
+        "hindi": "तनाका जी शिक्षक हैं।",
+        "noteHindi": "Tanaka-san विषय हैं।"
+      },
+      {
+        "jp": "これは本です。",
+        "romaji": "Kore wa hon desu.",
+        "hindi": "यह किताब है।",
+        "noteHindi": "Kore (यह) + hon (किताब) + desu (है)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "私 は です 学生 (गलत पदक्रम)",
+      "correctionJp": "私は学生です (सही)",
+      "explanationHindi": "अंग्रेजी (I am student) की तरह 'desu' को बीच में न लगाएं। हिंदी की तरह 'desu' (है/हूँ) हमेशा वाक्य के अंत में आएगा।"
+    },
+    "quiz": [
+      {
+        "question": "'मैं भारत का नागरिक हूँ' के लिए सही जापानी वाक्य क्या है?",
+        "options": [
+          "私はインド人です。",
+          "私ですインド人。",
+          "インド人私はです。",
+          "私インド人はです。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "सही पदक्रम [विषय + は] + [संज्ञा] + [です] है: 'Watashi wa Indojin desu'."
+      },
+      {
+        "question": "वाक्य में विषय दर्शाने वाले चिह्न 'は' का उच्चारण क्या होता है?",
+        "options": [
+          "wa (वा)",
+          "ha (हा)",
+          "ka (का)",
+          "ga (गा)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "लिखते समय 'は' (ha) लिखा जाता है, लेकिन कण (particle) के रूप में उच्चारण हमेशा 'wa' (वा) होता है।"
+      },
+      {
+        "question": "'यह पानी है' को जापानी में कैसे कहेंगे?",
+        "options": [
+          "これは水です。",
+          "これ水はです。",
+          "水はこれです。",
+          "これは水ます。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Kore wa mizu desu' (यह पानी है)। संज्ञा के साथ अंत में 'desu' आता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-2-ka",
+    "pointNumber": 2,
+    "titleJp": "प्रश्नवाचक कण「か」 (Question Marker)",
+    "titleHindi": "प्रश्न पूछना (Sentence-Ending 'ka')",
+    "formula": "[वाक्य] + か？",
+    "explanationHindi": "जापानी में किसी भी सामान्य वाक्य के अंत में 'か' (ka) जोड़ देने से वह प्रश्न बन जाता है।\nवाक्य की संरचना में कोई बदलाव नहीं करना पड़ता, न ही प्रश्नचिह्न '?' की अनिवार्य आवश्यकता होती है।",
+    "hindiComparison": "यह हिंदी में वाक्य की शुरुआत में 'क्या...' जोड़ने जैसा ही सरल है।\n(e.g., 'यह किताब है' ➔ 'क्या यह किताब है?' = 'Kore wa hon desu ka?')",
+    "examples": [
+      {
+        "jp": "田中さんは学生ですか。",
+        "romaji": "Tanaka-san wa gakusei desu ka.",
+        "hindi": "क्या तनाका जी छात्र हैं?",
+        "noteHindi": "Desu के बाद 'ka' लगाने से प्रश्न बन गया।"
+      },
+      {
+        "jp": "あれは何ですか。",
+        "romaji": "Are wa nan desu ka.",
+        "hindi": "वह क्या है?",
+        "noteHindi": "Nan = क्या।"
+      },
+      {
+        "jp": "お元気ですか。",
+        "romaji": "Ogenki desu ka.",
+        "hindi": "क्या आप कुशल हैं? (आप कैसे हैं?)",
+        "noteHindi": "दैनिक बातचीत का अत्यंत प्रचलित वाक्य।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "か田中さんは学生です (गलत जगह 'ka')",
+      "correctionJp": "田中さんは学生ですか (सही)",
+      "explanationHindi": "हिंदी की तरह 'क्या' (ka) आगे नहीं आता; जापानी में प्रश्नवाचक 'か' हमेशा वाक्य के सबसे अंत में जुड़ता है।"
+    },
+    "quiz": [
+      {
+        "question": "'क्या आप राहुल हैं?' पूछने के लिए रिक्त स्थान भरें: あなたはラフルさん___。",
+        "options": [
+          "ですか",
+          "は",
+          "の",
+          "ます"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "प्रश्न पूछने के लिए अंत में 'desu ka' (ですか) आएगा।"
+      },
+      {
+        "question": "जापानी में प्रश्नवाचक चिह्न 'か' वाक्य में कहाँ आता है?",
+        "options": [
+          "वाक्य के सबसे अंत में",
+          "वाक्य के शुरू में",
+          "कर्ता के तुरंत बाद",
+          "संज्ञा से पहले"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'か' हमेशा पूरे वाक्य के अंत में लगकर उसे प्रश्न बनाता है।"
+      },
+      {
+        "question": "'वह क्या है?' का सही अनुवाद चुनें:",
+        "options": [
+          "あれは何ですか。",
+          "あれは本です。",
+          "何はあれですか。",
+          "あれですか何。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Are wa nan desu ka' = वह क्या है?"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-3-no",
+    "pointNumber": 3,
+    "titleJp": "संबंध कारक कण「の」 (Possessive Particle 'no')",
+    "titleHindi": "संबंध कारक 'का / की / के' (No)",
+    "formula": "संज्ञा A + の + संज्ञा B",
+    "explanationHindi": "'の' (no) दो संज्ञाओं को जोड़ता है और संबंध या अधिकार दर्शाता है। यह दर्शाता है कि B का संबंध A से है।",
+    "hindiComparison": "यह हिंदी के 'का / की / के' के लगभग समान है।\n(e.g., 'मेरी किताब' = 'Watashi no hon', 'जापान की ट्रेन' = 'Nihon no densha').",
+    "examples": [
+      {
+        "jp": "私の本です。",
+        "romaji": "Watashi no hon desu.",
+        "hindi": "मेरी किताब है।",
+        "noteHindi": "Watashi (मैं) + no (का/की) + hon (किताब)।"
+      },
+      {
+        "jp": "大学の先生です。",
+        "romaji": "Daigaku no sensei desu.",
+        "hindi": "विश्वविद्यालय के शिक्षक हैं।",
+        "noteHindi": "Daigaku (यूनिवर्सिटी) + no + sensei (प्रोफ़ेसर/शिक्षक)।"
+      },
+      {
+        "jp": "日本の車です。",
+        "romaji": "Nihon no kuruma desu.",
+        "hindi": "जापान की गाड़ी है।",
+        "noteHindi": "उत्पत्ति/देश का संबंध दर्शाने के लिए भी 'no' का प्रयोग होता है।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "本 の 私 (उल्टा क्रम)",
+      "correctionJp": "私の本 (सही)",
+      "explanationHindi": "मालिक/मुख्य संदर्भ पहले आता है: 'किसकी किताब?' ➔ Watashi no hon (मेरी किताब)।"
+    },
+    "quiz": [
+      {
+        "question": "'यह तनाका जी की चाबी है' का सही जापानी अनुवाद क्या है?",
+        "options": [
+          "これは田中さんの鍵です。",
+          "これは鍵の田中さんです。",
+          "田中さんは鍵のこれです。",
+          "これは田中さん鍵です。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Tanaka-san no kagi' = तनाका जी की चाबी।"
+      },
+      {
+        "question": "'मेरी गाड़ी' के लिए सही विकल्प चुनें:",
+        "options": [
+          "私の車 (Watashi no kuruma)",
+          "車は私 (Kuruma wa watashi)",
+          "私の私 (Watashi no watashi)",
+          "車で私 (Kuruma de watashi)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Watashi no kuruma' = मेरी गाड़ी (Car)।"
+      },
+      {
+        "question": "रिक्त स्थान भरें: 日本___カメラ (जापान का कैमरा)",
+        "options": [
+          "の",
+          "は",
+          "を",
+          "か"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "देश और उत्पाद के संबंध को 'no' (の) से जोड़ा जाता है: 'Nihon no kamera'."
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-4-wo",
+    "pointNumber": 4,
+    "titleJp": "कर्म कारक कण「を」 (Direct Object Marker 'o')",
+    "titleHindi": "कर्म कारक 'को' (Object Marker 'o')",
+    "formula": "[कर्म/वस्तु] + を (उच्चारण 'o') + [सकर्मक क्रिया]",
+    "explanationHindi": "'を' (लिखते 'wo' हैं, बोलते 'o' हैं) उस वस्तु के बाद आता है जिस पर क्रिया का सीधा प्रभाव पड़ता है (Direct Object)।\nध्यान दें: हिंदी में निर्जीव वस्तु पर अक्सर 'को' नहीं बोलते (जैसे: 'किताब पढ़ता हूँ' न कि 'किताब को पढ़ता हूँ'), लेकिन जापानी में 'を' लगाना अनिवार्य होता है।",
+    "hindiComparison": "हिंदी संरचना: [कर्म] + [क्रिया] ➔ जापानी: [कर्म] + を + [क्रिया]।\nजैसे: 'पानी पीता हूँ' = 'Mizu o nomimasu'.",
+    "examples": [
+      {
+        "jp": "水を飲みます。",
+        "romaji": "Mizu o nomimasu.",
+        "hindi": "पानी पीता हूँ।",
+        "noteHindi": "Mizu (पानी) + o (कर्म चिह्न) + nomimasu (पीता हूँ)।"
+      },
+      {
+        "jp": "本を読みます。",
+        "romaji": "Hon o yomimasu.",
+        "hindi": "किताब पढ़ता हूँ।",
+        "noteHindi": "Hon (किताब) कर्म है।"
+      },
+      {
+        "jp": "日本語を勉強します。",
+        "romaji": "Nihongo o benkyou shimasu.",
+        "hindi": "जापानी भाषा सीखता/पढ़ता हूँ।",
+        "noteHindi": "Benkyou shimasu = पढ़ाई करना।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "ご飯 は 食べます (बिना प्रसंग के は लगाना)",
+      "correctionJp": "ご飯を食べます (सही)",
+      "explanationHindi": "क्रिया के कर्म के लिए सामान्यतः 'を' (o) का प्रयोग होता है, 'は' का नहीं।"
+    },
+    "quiz": [
+      {
+        "question": "'मैं ब्रेड खाता हूँ' के लिए सही वाक्य चुनें:",
+        "options": [
+          "パンを食べます。",
+          "パンは食べますです。",
+          "パンに行きます。",
+          "パンを食べますか。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Pan o tabemasu' = ब्रेड खाता हूँ।"
+      },
+      {
+        "question": "कण 'を' का सही उच्चारण क्या है?",
+        "options": [
+          "o (ओ)",
+          "wo (वो)",
+          "to (तो)",
+          "no (नो)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "कण के रूप में 'を' का आधुनिक उच्चारण शुद्ध 'o' (ओ) होता है।"
+      },
+      {
+        "question": "रिक्त स्थान भरें: 手紙___書きます (पत्र लिखता हूँ)",
+        "options": [
+          "を",
+          "に",
+          "で",
+          "は"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "पत्र (Tegami) कर्म है, अतः 'を' (o) आएगा।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-5-mo",
+    "pointNumber": 5,
+    "titleJp": "समावेशी कण「も」 (Inclusive Particle 'mo')",
+    "titleHindi": "समावेशी 'भी' (Also / Too 'mo')",
+    "formula": "X も (は / が / を की जगह)",
+    "explanationHindi": "'も' (mo) का अर्थ 'भी' (also/too) होता है। जब किसी पहले कही गई बात के समान दूसरी बात कहनी हो, तो यह 'は' या 'を' की जगह ले लेता है।",
+    "hindiComparison": "यह हिंदी के 'भी' के बिल्कुल समतुल्य है।\n(e.g., 'मैं भी छात्र हूँ' = 'Watashi mo gakusei desu').",
+    "examples": [
+      {
+        "jp": "私も学生です。",
+        "romaji": "Watashi mo gakusei desu.",
+        "hindi": "मैं भी छात्र हूँ।",
+        "noteHindi": "Watashi wa की जगह Watashi mo (मैं भी)।"
+      },
+      {
+        "jp": "これも本です。",
+        "romaji": "Kore mo hon desu.",
+        "hindi": "यह भी किताब है।",
+        "noteHindi": "Kore mo = यह भी।"
+      },
+      {
+        "jp": "お茶も飲みます。",
+        "romaji": "Ocha mo nomimasu.",
+        "hindi": "चाय भी पीता हूँ।",
+        "noteHindi": "Ocha o की जगह Ocha mo।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "私はも学生です (は और も दोनों साथ में)",
+      "correctionJp": "私も学生です (सही)",
+      "explanationHindi": "'も' अकेले आता है और 'は' को हटा देता है; 'wa mo' एक साथ नहीं आता।"
+    },
+    "quiz": [
+      {
+        "question": "तनाका जी कहते हैं: 'मैं जापानी हूँ'। आप कहना चाहते हैं: 'मैं भी जापानी हूँ'। क्या कहेंगे?",
+        "options": [
+          "私も日本人です。",
+          "私は日本人です。",
+          "私の日本人です。",
+          "私に日本人です。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Watashi mo nihonjin desu' = मैं भी जापानी हूँ।"
+      },
+      {
+        "question": "'यह भी स्वादिष्ट है' का सही अनुवाद क्या है?",
+        "options": [
+          "これにおいしいです。",
+          "これもおいしいです。",
+          "これのおいしいです。",
+          "これでおいしいです。"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'Kore mo oishii desu' = यह भी स्वादिष्ट है।"
+      },
+      {
+        "question": "कण 'も' (mo) का हिंदी में क्या अर्थ होता है?",
+        "options": [
+          "भी (Also)",
+          "का/की (Of)",
+          "को (Object)",
+          "नहीं (No)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'も' का अर्थ 'भी' (Also/Too) होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-6-ni-de",
+    "pointNumber": 6,
+    "titleJp": "स्थान कण「に」बनाम「で」 (Location Particles)",
+    "titleHindi": "स्थान सूचक 'में / पर' (Ni vs De)",
+    "formula": "[स्थान] + に (अस्तित्व/दिशा) VS [स्थान] + で (सक्रिय क्रिया)",
+    "explanationHindi": "जापानी में स्थान दर्शाने के दो मुख्य कण हैं:\n1. 'に' (ni): किसी चीज़ के उपस्थित होने (arimasu/imasu) या जाने के लक्ष्य (ikimasu) के लिए (~ में/पर)।\n2. 'で' (de): जहाँ कोई सक्रिय कार्य या एक्शन हो रहा हो (~ में/पर)।\nध्यान दें: दोनों का अनुवाद हिंदी में 'में' हो सकता है, पर जापानी में इनका अंतर स्पष्ट है।",
+    "hindiComparison": "हिंदी में 'घर में हूँ' और 'घर में पढ़ता हूँ' दोनों में 'में' आता है, पर जापानी में: 'Ie ni imasu' (उपस्थिति ➔ に) लेकिन 'Ie de benkyou shimasu' (क्रिया ➔ で)।",
+    "examples": [
+      {
+        "jp": "部屋に猫がいます。",
+        "romaji": "Heya ni neko ga imasu.",
+        "hindi": "कमरे में बिल्ली है।",
+        "noteHindi": "बिल्ली की उपस्थिति है, अतः 'ni' आया।"
+      },
+      {
+        "jp": "図書館で本を読みます。",
+        "romaji": "Toshokan de hon o yomimasu.",
+        "hindi": "पुस्तकालय में किताब पढ़ता हूँ।",
+        "noteHindi": "किताब पढ़ने की सक्रिय क्रिया हो रही है, अतः 'de' आया।"
+      },
+      {
+        "jp": "東京に行きます。",
+        "romaji": "Toukyou ni ikimasu.",
+        "hindi": "टोक्यो जा रहा हूँ।",
+        "noteHindi": "गमन की दिशा/मंज़िल के लिए 'ni' आता है।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "学校 に 勉強します (क्रिया के स्थान पर に लगाना)",
+      "correctionJp": "学校で勉強します (सही)",
+      "explanationHindi": "पढ़ाई करना एक सक्रिय क्रिया (Action) है, इसलिए स्थान के साथ 'de' लगेगा।"
+    },
+    "quiz": [
+      {
+        "question": "रिक्त स्थान भरें: レストラン___ご飯を食べます (रेस्टोरेंट में खाना खाता हूँ)",
+        "options": [
+          "で",
+          "に",
+          "へ",
+          "の"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "खाना खाना एक सक्रिय कार्य है, इसलिए स्थान के बाद 'de' (で) आएगा।"
+      },
+      {
+        "question": "रिक्त स्थान भरें: 机の上___本があります (मेज़ पर किताब है)",
+        "options": [
+          "に",
+          "で",
+          "を",
+          "と"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "किताब की स्थिति/उपस्थिति (arimasu) दर्शाने के लिए 'ni' (に) आता है।"
+      },
+      {
+        "question": "'जापान जाऊंगा' के लिए सही गंतव्य कण चुनें: 日本___行きます。",
+        "options": [
+          "に",
+          "で",
+          "を",
+          "から"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "मंज़िल (Destination) दर्शाने के लिए 'ni' (に) या 'e' (へ) आता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-7-desu-masu",
+    "pointNumber": 7,
+    "titleJp": "आदरसूचक रूप「です / ます」 (Polite Forms)",
+    "titleHindi": "विनम्र वर्तमान/भविष्य 'Desu / Masu'",
+    "formula": "संज्ञा/विशेषण + です | क्रिया स्टेम + ます",
+    "explanationHindi": "जापानी में विनम्र बातचीत (Desu/Masu Form) के लिए:\n- संज्ञा और विशेषण के बाद 'です' (desu) लगाते हैं।\n- क्रिया के स्टेम (masu-stem) के बाद 'ます' (masu) लगाते हैं। यह वर्तमान और भविष्य दोनों कालों को दर्शाता है।",
+    "hindiComparison": "यह हिंदी में 'करता हूँ / करूँगा' जैसे आदरपूर्वक बात करने के समान है।",
+    "examples": [
+      {
+        "jp": "私は毎日日本語を勉強します。",
+        "romaji": "Watashi wa mainichi nihongo o benkyou shimasu.",
+        "hindi": "मैं रोज़ाना जापानी पढ़ता हूँ।",
+        "noteHindi": "Benkyou shimasu = पढ़ता हूँ / पढूंगा।"
+      },
+      {
+        "jp": "明日東京に行きます。",
+        "romaji": "Ashita Toukyou ni ikimasu.",
+        "hindi": "कल टोक्यो जाऊंगा।",
+        "noteHindi": "भविष्य के लिए भी 'masu' रूप ही प्रयुक्त होता है।"
+      },
+      {
+        "jp": "このお茶はおいしいです。",
+        "romaji": "Kono ocha wa oishii desu.",
+        "hindi": "यह चाय स्वादिष्ट है।",
+        "noteHindi": "विशेषण के बाद 'desu' लगा है।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "飲みますです (क्रिया के साथ desu लगाना)",
+      "correctionJp": "飲みます (सही)",
+      "explanationHindi": "क्रिया के 'masu' रूप के बाद दोबारा 'desu' नहीं लगाया जाता।"
+    },
+    "quiz": [
+      {
+        "question": "'たべる' (Taberu - खाना) का विनम्र 'ます' रूप क्या है?",
+        "options": [
+          "たべます (Tabemasu)",
+          "たべるです (Taberu desu)",
+          "たべますです (Tabemasu desu)",
+          "たべない (Tabenai)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Taberu' का विनम्र रूप 'Tabemasu' (たべます) होता है।"
+      },
+      {
+        "question": "जापानी में 'ます' (Masu) क्रिया रूप किस काल को दर्शाता है?",
+        "options": [
+          "वर्तमान और भविष्य दोनों",
+          "केवल भूतकाल",
+          "केवल भूतकाल का नकारात्मक",
+          "केवल आज्ञावाचक"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "जापानी में गैर-भूतकाल (Non-past) रूप वर्तमान की आदत और भविष्य की योजना दोनों बताता है।"
+      },
+      {
+        "question": "'कल पानी पियूँगा' के लिए सही वाक्य चुनें:",
+        "options": [
+          "明日水を飲みます。",
+          "明日水を飲みました。",
+          "明日水を飲むでした。",
+          "明日水が飲みます。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Ashita mizu o nomimasu' = कल पानी पियूँगा।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-8-negative",
+    "pointNumber": 8,
+    "titleJp": "नकारात्मक रूप「ではありません / 〜ません」",
+    "titleHindi": "नकारात्मक विनम्र रूप (Negative Polite)",
+    "formula": "संज्ञा + ではありません (या じゃありません) | क्रिया + 〜ません",
+    "explanationHindi": "विनम्र भाषा में 'नहीं है' या 'नहीं करता':\n- संज्ञा के साथ: 'ではありません' (dewa arimasen) या बोलचाल में 'じゃありません' (ja arimasen)।\n- क्रिया के साथ: '〜ます' को हटाकर '〜ません' (masen) लगाते हैं।",
+    "hindiComparison": "हिंदी: 'नहीं हूँ' / 'नहीं खाता'।\n(e.g., 'मैं छात्र नहीं हूँ' = 'Watashi wa gakusei dewa arimasen').",
+    "examples": [
+      {
+        "jp": "私は先生ではありません。",
+        "romaji": "Watashi wa sensei dewa arimasen.",
+        "hindi": "मैं शिक्षक नहीं हूँ।",
+        "noteHindi": "Dewa arimasen = नहीं हूँ।"
+      },
+      {
+        "jp": "お肉は食べません。",
+        "romaji": "Oniku wa tabemasen.",
+        "hindi": "मीट नहीं खाता हूँ।",
+        "noteHindi": "Tabemasu ➔ Tabemasen (नहीं खाता)।"
+      },
+      {
+        "jp": "今日はお酒を飲みません。",
+        "romaji": "Kyou wa osake o nomimasen.",
+        "hindi": "आज शराब नहीं पियूँगा।",
+        "noteHindi": "Nomimasen = नहीं पियूँगा।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "食べますない (गलत नकारात्मक)",
+      "correctionJp": "食べません (सही)",
+      "explanationHindi": "विनम्र क्रिया में नकारात्मक 'masen' (ません) होता है, 'masu nai' नहीं।"
+    },
+    "quiz": [
+      {
+        "question": "'मैं जापानी नहीं हूँ' के लिए सही वाक्य चुनें:",
+        "options": [
+          "私は日本人ではありません。",
+          "私は日本人ですない。",
+          "私は日本人ではありませんでした。",
+          "私に日本人じゃない。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Sensei/Nihonjin dewa arimasen' = नहीं हूँ।"
+      },
+      {
+        "question": "'行きます' (Ikimasu - जाता हूँ) का नकारात्मक क्या होगा?",
+        "options": [
+          "行きません (Ikimasen)",
+          "行くない (Ikunai)",
+          "行きますない (Ikimasunai)",
+          "行かないでした (Ikanaideshita)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Ikimasu' का नकारात्मक 'Ikimasen' (行きません) होता है।"
+      },
+      {
+        "question": "बोलचाल में 'ではありません' की जगह आमतौर पर क्या बोला जाता है?",
+        "options": [
+          "じゃありません (Ja arimasen)",
+          "です (Desu)",
+          "ます (Masu)",
+          "でした (Deshita)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "बोलचाल की भाषा में 'dewa arimasen' को 'ja arimasen' कहा जाता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-9-past",
+    "pointNumber": 9,
+    "titleJp": "भूतकाल রূপ「でした / 〜ました」 (Past Tense)",
+    "titleHindi": "भूतकाल रूप 'था / किया' (Past Polite)",
+    "formula": "संज्ञा + でした | क्रिया + 〜ました (नकारात्मक: 〜ませんでした)",
+    "explanationHindi": "बीते हुए समय की बात करने के लिए:\n- संज्ञा/संज्ञा वाक्य के अंत में 'でした' (deshita) आता है (~ था/थी/थे)।\n- क्रिया के साथ '〜ました' (mashita) आता है (~ किया/गया)।\n- भूतकाल नकारात्मक: '〜ませんでした' (masen deshita) (~ नहीं किया)।",
+    "hindiComparison": "हिंदी: 'गया था' / 'खाया था'।\n(e.g., 'कल किताब खरीदी थी' = 'Kinou hon o kaimashita').",
+    "examples": [
+      {
+        "jp": "昨日は雨でした。",
+        "romaji": "Kinou wa ame deshita.",
+        "hindi": "कल बारिश थी।",
+        "noteHindi": "Ame (बारिश) + deshita (थी)।"
+      },
+      {
+        "jp": "朝ご飯を食べました。",
+        "romaji": "Asagohan o tabemashita.",
+        "hindi": "नाश्ता खाया था (कर लिया)।",
+        "noteHindi": "Tabemashita = खाया था।"
+      },
+      {
+        "jp": "昨日は勉強しませんでした。",
+        "romaji": "Kinou wa benkyou shimasen deshita.",
+        "hindi": "कल पढ़ाई नहीं की थी।",
+        "noteHindi": "Shimasen deshita = नहीं किया था।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "昨日 行きます (भूतकाल में वर्तमान रूप लगाना)",
+      "correctionJp": "昨日 行きました (सही)",
+      "explanationHindi": "'Kinou' (बीता हुआ कल) के साथ क्रिया का भूतकाल रूप 'ikimashita' लगेगा।"
+    },
+    "quiz": [
+      {
+        "question": "'कल मैंने फ़िल्म देखी थी' के लिए सही वाक्य चुनें:",
+        "options": [
+          "昨日映画を見ました。",
+          "昨日映画を見ます。",
+          "昨日映画を見るでした。",
+          "昨日映画を見ません。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Kinou eiga o mimashita' = कल फ़िल्म देखी थी।"
+      },
+      {
+        "question": "'कल स्कूल नहीं गया था' के लिए सही क्रिया रूप चुनें: 昨日は学校へ___。",
+        "options": [
+          "行きました",
+          "行きませんでした",
+          "行きません",
+          "行きます"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "भूतकाल के नकारात्मक के लिए 'ikimasen deshita' (行きませんでした) आएगा।"
+      },
+      {
+        "question": "'昨日は日曜日___' (कल रविवार था) में रिक्त स्थान भरें:",
+        "options": [
+          "でした",
+          "です",
+          "ます",
+          "ました"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "संज्ञा के साथ भूतकाल में 'deshita' (でした) आता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-10-kore-sore-are",
+    "pointNumber": 10,
+    "titleJp": "संकेतवाचक सर्वनाम「これ / それ / あれ」 (Ko-So-A-Do)",
+    "titleHindi": "यह / वह / वह दूर (Demonstratives)",
+    "formula": "これ (पास) | それ (श्रोता के पास) | あれ (दोनों से दूर) | どれ (कौन सा)",
+    "explanationHindi": "जापानी में दूरी के अनुसार 3 संकेतवाचक शब्द होते हैं:\n1. 'これ' (kore): बोलने वाले (Speaker) के पास की वस्तु (~ यह)।\n2. 'それ' (sore): सुनने वाले (Listener) के पास की वस्तु (~ वह)।\n3. 'あれ' (are): दोनों से दूर की वस्तु (~ वह दूर)।\n4. 'どれ' (dore): प्रश्नवाचक (~ कौन सा)।",
+    "hindiComparison": "हिंदी में 'यह' और 'वह' दो ही होते हैं, जबकि जापानी में तीन दूरियाँ होती हैं (मेरे पास, तुम्हारे पास, दोनों से दूर)।",
+    "examples": [
+      {
+        "jp": "これは私のペンです。",
+        "romaji": "Kore wa watashi no pen desu.",
+        "hindi": "यह मेरा पेन है। (मेरे पास)",
+        "noteHindi": "Kore = यह वस्तु।"
+      },
+      {
+        "jp": "それは何の本ですか。",
+        "romaji": "Sore wa nan no hon desu ka.",
+        "hindi": "वह किस चीज़ की किताब है? (श्रोता के पास)",
+        "noteHindi": "Sore = वह वस्तु जो सुनने वाले के पास है।"
+      },
+      {
+        "jp": "あれは病院です。",
+        "romaji": "Are wa byouin desu.",
+        "hindi": "वह (दूर) अस्पताल है।",
+        "noteHindi": "Are = दोनों से दूर।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "これ 本 (संज्ञा से सीधे पहले kore लगाना)",
+      "correctionJp": "この本 (सही) या これは本です (सही)",
+      "explanationHindi": "'kore' अकेला सर्वनाम है। यदि संज्ञा से ठीक पहले 'यह' जोड़ना हो तो 'kono' (この) का प्रयोग होता है।"
+    },
+    "quiz": [
+      {
+        "question": "अगर कोई वस्तु आपसे और सुनने वाले दोनों से बहुत दूर हो, तो कौन सा शब्द प्रयोग करेंगे?",
+        "options": [
+          "あれ (Are)",
+          "これ (Kore)",
+          "それ (Sore)",
+          "どれ (Dore)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "दोनों से दूर स्थित वस्तु के लिए 'Are' (あれ) का प्रयोग होता है।"
+      },
+      {
+        "question": "सुनने वाले के हाथ में रखी वस्तु की ओर इशारा करके पूछने के लिए क्या कहेंगे?",
+        "options": [
+          "それは何ですか。",
+          "これは何ですか。",
+          "あれは何ですか。",
+          "どれは何ですか。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "श्रोता के पास रखी चीज़ के लिए 'Sore wa nan desu ka' कहते हैं।"
+      },
+      {
+        "question": "'यह मेरी घड़ी है' का सही अनुवाद क्या है?",
+        "options": [
+          "これは私の時計です。",
+          "あれは時計の私です。",
+          "それの私の時計です。",
+          "どれは私の時計です。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Kore wa watashi no tokei desu' = यह मेरी घड़ी है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-11-i-adj",
+    "pointNumber": 11,
+    "titleJp": "「い」विशेषण (I-Adjectives)",
+    "titleHindi": "I-विशेषण और उनके रूप",
+    "formula": "वर्तमान: 〜い です | नकारात्मक: 〜く ない です | भूतकाल: 〜かった です",
+    "explanationHindi": "'い-विशेषण' वे होते हैं जिनका अंत 'い' (i) पर होता है (जैसे: たかい, おいしい, おおきい)।\nइनके रूप बदलते समय अंतिम 'い' को हटाया जाता है:\n- नकारात्मक: い ➔ くない (e.g., たかくない = महंगा नहीं है)\n- भूतकाल: い ➔ かった (e.g., たかかった = महंगा था)",
+    "hindiComparison": "हिंदी में विशेषण लिंग/वचन से बदलते हैं (बड़ा/बड़ी), जबकि जापानी में विशेषण का अपना काल (Tense) होता है!",
+    "examples": [
+      {
+        "jp": "この料理はおいしいです。",
+        "romaji": "Kono ryouri wa oishii desu.",
+        "hindi": "यह भोजन स्वादिष्ट है।",
+        "noteHindi": "Oishii = स्वादिष्ट।"
+      },
+      {
+        "jp": "昨日は寒かったです。",
+        "romaji": "Kinou wa samukatta desu.",
+        "hindi": "कल ठंड थी।",
+        "noteHindi": "Samui (ठंडा) ➔ Samukatta (ठंडा था)।"
+      },
+      {
+        "jp": "この本は高くないです。",
+        "romaji": "Kono hon wa takakunai desu.",
+        "hindi": "यह किताब महंगी नहीं है।",
+        "noteHindi": "Takai ➔ Takakunai (महंगा नहीं)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "おいしい でした (i-विशेषण के साथ deshita लगाना)",
+      "correctionJp": "おいしかったです (सही)",
+      "explanationHindi": "I-विशेषण में 'deshita' नहीं लगता; 'i' हटकर 'katta desu' बनता है।"
+    },
+    "quiz": [
+      {
+        "question": "'たかい' (Takai - महंगा) का भूतकाल रूप क्या होगा?",
+        "options": [
+          "たかかったです (Takakatta desu)",
+          "たかいでした (Takai deshita)",
+          "たかくない (Takakunai)",
+          "たかいかった (Takaikatta)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "अंतिम 'い' हटाकर 'かったです' लगाते हैं: 'Takakatta desu'."
+      },
+      {
+        "question": "'おおきい' (Ookii - बड़ा) का नकारात्मक रूप क्या है?",
+        "options": [
+          "おおきくないです (Ookikunai desu)",
+          "おおきいじゃない (Ookii janai)",
+          "おおきくないでした (Ookikunaideshita)",
+          "おおきくでした (Ookikudeshita)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "नकारात्मक के लिए 'い' हटाकर 'くないです' लगाते हैं: 'Ookikunai desu'."
+      },
+      {
+        "question": "'いい' (Ii - अच्छा) का नकारात्मक रूप क्या होता है (अनियमित)?",
+        "options": [
+          "よくないです (Yokunai desu)",
+          "いくないです (Ikunai desu)",
+          "いいじゃないです (Ii janai desu)",
+          "よかった (Yokatta)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'いい' अनियमित है, इसका रूप 'よくない' (yokunai) होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-12-na-adj",
+    "pointNumber": 12,
+    "titleJp": "「な」विशेषण (Na-Adjectives)",
+    "titleHindi": "Na-विशेषण और संज्ञा जोड़ना",
+    "formula": "संज्ञा से पहले: [विशेषण] + な + [संज्ञा] | वाक्य अंत: [विशेषण] + です",
+    "explanationHindi": "'な-विशेषण' (जैसे: すき, しずか, べんり) के दो मुख्य नियम हैं:\n1. जब ये संज्ञा से पहले आते हैं, तो बीच में 'な' (na) लगाना अनिवार्य होता है (e.g., しずかな 部屋 = शांत कमरा)।\n2. जब वाक्य के अंत में आते हैं, तो सीधे 'です/でした' लगता है, 'な' हट जाता है (e.g., この部屋はしずかです)।",
+    "hindiComparison": "संज्ञा के साथ 'विशेषण + ना' का नियम याद रखें (जैसे: 'Kirei na hana' = सुंदर फूल)।",
+    "examples": [
+      {
+        "jp": "静かな部屋です。",
+        "romaji": "Shizuka na heya desu.",
+        "hindi": "शांत कमरा है।",
+        "noteHindi": "Shizuka (शांत) + na + heya (कमरा)।"
+      },
+      {
+        "jp": "日本のアニメが好きです。",
+        "romaji": "Nihon no anime ga suki desu.",
+        "hindi": "मुझे जापानी एनीमे पसंद है।",
+        "noteHindi": "Suki na-विशेषण है; अंत में suki desu आता है।"
+      },
+      {
+        "jp": "この町は便利です。",
+        "romaji": "Kono machi wa benri desu.",
+        "hindi": "यह शहर सुविधाजनक है।",
+        "noteHindi": "Benri = सुविधाजनक।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "静か 部屋 (बिना な के संज्ञा जोड़ना)",
+      "correctionJp": "静かな部屋 (सही)",
+      "explanationHindi": "Na-विशेषण को संज्ञा से जोड़ते समय 'na' (な) लगाना अनिवार्य है।"
+    },
+    "quiz": [
+      {
+        "question": "रिक्त स्थान भरें: きれい___花 (सुंदर फूल)",
+        "options": [
+          "な",
+          "い",
+          "の",
+          "に"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Kirei' एक Na-विशेषण है, अतः संज्ञा से पहले 'na' (な) लगेगा।"
+      },
+      {
+        "question": "'すき' (Suki - पसंद) किस प्रकार का विशेषण है?",
+        "options": [
+          "な-विशेषण (Na-adjective)",
+          "い-विशेषण (I-adjective)",
+          "क्रिया (Verb)",
+          "सर्वनाम (Pronoun)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Suki' (好き) व्याकरण की दृष्टि से Na-विशेषण होता है।"
+      },
+      {
+        "question": "'यह कमरा शांत है' का सही अनुवाद चुनें:",
+        "options": [
+          "この部屋は静かです。",
+          "この部屋は静かなです。",
+          "この部屋は静かいます。",
+          "この部屋は静かでしたない。"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "वाक्य के अंत में 'Shizuka desu' आता है ('na' हट जाता है)।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-13-counters",
+    "pointNumber": 13,
+    "titleJp": "गिनती और संख्या सूचक (Counting Basics)",
+    "titleHindi": "सामान्य गिनती (ひとつ〜とお) और संख्या सूचक",
+    "formula": "वस्तुओं की सामान्य गिनती: ひとつ〜とお | व्यक्तियों के लिए: ひとり/ふたり/〜にん",
+    "explanationHindi": "जापानी में वस्तुओं को गिनने के लिए अलग-अलग काउंटर होते हैं:\n1. सामान्य वस्तुएं: ひとつ (1), ふたつ (2), みっつ (3), よっつ (4), いつつ (5), むっつ (6), ななつ (7), やっつ (8), ここのつ (9), とお (10)।\n2. व्यक्ति (People): ひとり (1 व्यक्ति), ふたり (2 व्यक्ति), さんにん (3 व्यक्ति), よにん (4 व्यक्ति)।\n3. लंबी/बेलनाकार वस्तुएं (〜本): ध्वनि परिवर्तन की चेतावनी! (1本 = いっぽん ippon, 2本 = にほん nihon, 3本 = さんぼん sanbon)।",
+    "hindiComparison": "हिंदी में 'एक सेब', 'दो लोग' कहते हैं, जबकि जापानी में वस्तु के प्रकार के अनुसार संख्या रूप बदलता है।",
+    "examples": [
+      {
+        "jp": "りんごを二つください。",
+        "romaji": "Ringo o futatsu kudasai.",
+        "hindi": "दो सेब दीजिए।",
+        "noteHindi": "Futatsu = दो सामान्य वस्तुएं।"
+      },
+      {
+        "jp": "学生が三人います。",
+        "romaji": "Gakusei ga sannin imasu.",
+        "hindi": "तीन छात्र हैं।",
+        "noteHindi": "Sannin = 3 व्यक्ति।"
+      },
+      {
+        "jp": "ペンを三本買いました。",
+        "romaji": "Pen o sanbon kaimashita.",
+        "hindi": "तीन पेन खरीदे।",
+        "noteHindi": "ध्वनि परिवर्तन: 3本 = さんぼん (sanbon)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "学生 二人があります (व्यक्तियों के साथ arimasu लगाना)",
+      "correctionJp": "学生が二人います (सही)",
+      "explanationHindi": "सजीव प्राणियों (व्यक्तियों/जानवरों) की उपस्थिति के लिए 'imasu' (います) का प्रयोग होता है, 'arimasu' का नहीं।"
+    },
+    "quiz": [
+      {
+        "question": "'एक सेब' मांगने के लिए 'एक' का सामान्य काउंटर क्या है?",
+        "options": [
+          "ひとつ (Hitotsu)",
+          "ひとり (Hitori)",
+          "いち (Ichi)",
+          "いっぽん (Ippon)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "सामान्य वस्तुओं को गिनने के लिए 'Hitotsu' (ひとつ) कहते हैं।"
+      },
+      {
+        "question": "'दो व्यक्ति' (2 people) के लिए सही शब्द क्या है?",
+        "options": [
+          "ふたり (Futari)",
+          "ににん (Ninin)",
+          "ふたつ (Futatsu)",
+          "にほん (Nihon)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "दो व्यक्तियों के लिए 'Futari' (ふたり) विशेष शब्द है।"
+      },
+      {
+        "question": "'तीन पेन' (3 pens) के लिए सही उच्चारण क्या है (ध्वनि परिवर्तन)?",
+        "options": [
+          "さんぼん (Sanbon)",
+          "さんほん (Sanhon)",
+          "さんぽん (Sanpon)",
+          "みっつ (Mittsu)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "3 के साथ 'hon' बदलकर 'sanbon' (さんぼん) उच्चारित होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-14-to",
+    "pointNumber": 14,
+    "titleJp": "संयोजक कण「と」 (Particle 'to' - And / With)",
+    "titleHindi": "संयोजक 'और' एवं 'के साथ' ('to')",
+    "formula": "संज्ञा A + と + संज्ञा B (और) | व्यक्ति + と + क्रिया (के साथ)",
+    "explanationHindi": "कण 'と' (to) के दो मुख्य प्रयोग हैं:\n1. दो संज्ञाओं को जोड़ना: 'A और B' (e.g., 肉と野菜 = मीट और सब्ज़ी)।\n2. किसी व्यक्ति के साथ कोई कार्य करना: 'के साथ' (e.g., 友だちと行きます = दोस्त के साथ जाऊंगा)।",
+    "hindiComparison": "यह हिंदी के 'और' (And) तथा 'के साथ' (Together with) दोनों के समान कार्य करता है।",
+    "examples": [
+      {
+        "jp": "パンと卵を食べます。",
+        "romaji": "Pan to tamago o tabemasu.",
+        "hindi": "ब्रेड और अंडा खाता हूँ।",
+        "noteHindi": "Pan to tamago = ब्रेड और अंडा।"
+      },
+      {
+        "jp": "友だちと映画を見ます。",
+        "romaji": "Tomodachi to eiga o mimasu.",
+        "hindi": "दोस्त के साथ फ़िल्म देखता हूँ।",
+        "noteHindi": "Tomodachi to = दोस्त के साथ।"
+      },
+      {
+        "jp": "家族と日本へ行きます。",
+        "romaji": "Kazoku to nihon e ikimasu.",
+        "hindi": "परिवार के साथ जापान जाऊंगा।",
+        "noteHindi": "Kazoku to = परिवार के साथ।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "パンと (वाक्य के अंत में 'to' छोड़ देना)",
+      "correctionJp": "パンと卵を食べます (सही)",
+      "explanationHindi": "'to' केवल संज्ञाओं के बीच सूची जोड़ने या 'साथ' बताने के लिए आता है।"
+    },
+    "quiz": [
+      {
+        "question": "'मैं और तनाका जी' के लिए सही जापानी क्या होगी?",
+        "options": [
+          "私と田中さん",
+          "私は田中さん",
+          "私の田中さん",
+          "私に田中さん"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Watashi to Tanaka-san' = मैं और तनाका जी।"
+      },
+      {
+        "question": "रिक्त स्थान भरें: 兄___東京へ行きました (बड़े भाई के साथ टोक्यो गया था)",
+        "options": [
+          "と",
+          "を",
+          "で",
+          "は"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "साथ जाने के अर्थ में 'to' (と) का प्रयोग होगा: 'Ani to'."
+      },
+      {
+        "question": "'पानी और चाय' का सही अनुवाद चुनें:",
+        "options": [
+          "水とお茶",
+          "水はお茶",
+          "水の水",
+          "水でお茶"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Mizu to ocha' = पानी और चाय।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-15-te-form",
+    "pointNumber": 15,
+    "titleJp": "क्रिया का「て-रूप」 (Te-Form Basics)",
+    "titleHindi": "Te-रूप और अनुरोध (〜てください)",
+    "formula": "क्रिया का て-रूप + ください (कृपया ... कीजिए)",
+    "explanationHindi": "जापानी क्रियाओं का 'て-रूप' (Te-form) बहुत महत्वपूर्ण है। इसका सबसे पहला और मुख्य प्रयोग विनम्र अनुरोध करना है:\n- 'क्रिया-て + ください' (Te kudasai) = 'कृपया यह कीजिए'।\n(e.g., たべてください = कृपया खाइए, みてください = कृपया देखिए)।",
+    "hindiComparison": "यह हिंदी में 'कृपया ... कीजिए / करिए' कहने के बिल्कुल समतुल्य है।\n(e.g., 'कृपया सुनिए' = 'Kiite kudasai').",
+    "examples": [
+      {
+        "jp": "ちょっと待ってください。",
+        "romaji": "Chotto matte kudasai.",
+        "hindi": "कृपया ज़रा रुकिए।",
+        "noteHindi": "Matsu (रुकना) ➔ Matte kudasai (कृपया रुकिए)।"
+      },
+      {
+        "jp": "本を読んでください。",
+        "romaji": "Hon o yonde kudasai.",
+        "hindi": "कृपया किताब पढ़िए।",
+        "noteHindi": "Yomu ➔ Yonde kudasai (पढ़िए)।"
+      },
+      {
+        "jp": "日本語で話してください。",
+        "romaji": "Nihongo de hanashite kudasai.",
+        "hindi": "कृपया जापानी में बात कीजिए।",
+        "noteHindi": "Hanasu ➔ Hanashite kudasai (बात कीजिए)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "食べます ください (masu के बाद kudasai लगाना)",
+      "correctionJp": "食べてください (सही)",
+      "explanationHindi": "अनुरोध करने के लिए क्रिया का 'Te-रूप' (て) अनिवार्य है, 'masu' नहीं।"
+    },
+    "quiz": [
+      {
+        "question": "'कृपया खाइए' के लिए सही जापानी वाक्य क्या है?",
+        "options": [
+          "食べてください (Tabete kudasai)",
+          "食べますください (Tabemasu kudasai)",
+          "食べるください (Taberu kudasai)",
+          "食べないください (Tabenai kudasai)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Taberu' का Te-रूप 'Tabete' होता है, अतः 'Tabete kudasai' (食べてください) सही है।"
+      },
+      {
+        "question": "'कृपया ज़रा रुकिए' का अत्यंत प्रसिद्ध जापानी वाक्य क्या है?",
+        "options": [
+          "ちょっと待ってください (Chotto matte kudasai)",
+          "ちょっと行きます (Chotto ikimasu)",
+          "ちょっと飲みます (Chotto nomimasu)",
+          "ちょっと食べます (Chotto tabemasu)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'Chotto matte kudasai' = कृपया ज़रा रुकिए।"
+      },
+      {
+        "question": "क्रिया के 'て-रूप' (Te-form) के बाद 'ください' लगाने से क्या भाव प्रकट होता है?",
+        "options": [
+          "विनम्र अनुरोध (Please do...)",
+          "कड़ा आदेश (Order)",
+          "भूतकाल की घटना (Past event)",
+          "नकारात्मक विचार (Negative thought)"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'〜てください' विनम्र अनुरोध (Polite request) का भाव देता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-16-tai",
+    "pointNumber": 16,
+    "titleJp": "〜たいです",
+    "titleHindi": "इच्छा व्यक्त करना: 'करना चाहता हूँ' (Want to do)",
+    "formula": "[Verb Stem (ます-form minus ます)] + たいです / たくないです",
+    "explanationHindi": "जापानी में अपनी व्यक्तिगत इच्छा व्यक्त करने के लिए क्रिया के 'ます' रूप को हटाकर 'たいです' जोड़ा जाता है।\nप्रश्न पूछने के लिए '〜たいですか' (क्या आप ... करना चाहते हैं?) प्रयुक्त होता है।\nध्यान दें: '〜たい' जुड़ने के बाद यह क्रिया 'い-विशेषण' (i-adjective) की तरह बदलती है (जैसे: 飲みたい ➔ 飲みたくない ➔ 飲みたかった)।",
+    "hindiComparison": "हिंदी के 'क्रिया + चाहता/चाहती हूँ' (जैसे: पीना चाहता हूँ) के लगभग समान है।\nभिन्नता: जापानी में '〜たいです' का प्रयोग केवल प्रथम पुरुष (मैं/हम) और प्रश्न में द्वितीय पुरुष (आप) के लिए होता है। तीसरे व्यक्ति (Third person: वह चाहता है) के लिए '〜たいです' का सीधा प्रयोग नहीं होता; उसके लिए '〜たがっています' (tagatte imasu) संरचना लगती है।",
+    "examples": [
+      {
+        "jp": "水を飲みたいです。",
+        "romaji": "Mizu o nomitai desu.",
+        "hindi": "मैं पानी पीना चाहता हूँ।",
+        "noteHindi": "Mizu (पानी) + o (कर्म) + nomitai (पीना चाहता हूँ) + desu।"
+      },
+      {
+        "jp": "日本へ行きたいです。",
+        "romaji": "Nihon e ikitai desu.",
+        "hindi": "मैं जापान जाना चाहता हूँ।",
+        "noteHindi": "Nihon (जापान) + e (दिशा) + ikitai (जाना चाहता हूँ) + desu।"
+      },
+      {
+        "jp": "本を読みたいですか。",
+        "romaji": "Hon o yomitai desu ka.",
+        "hindi": "क्या आप किताब पढ़ना चाहते हैं?",
+        "noteHindi": "Hon (किताब) + o (कर्म) + yomitai (पढ़ना चाहते हैं) + desu ka।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "日本へ行くたいです。",
+      "correctionJp": "日本へ行きたいです。",
+      "explanationHindi": "डिक्शनरी रूप (行く) के साथ সরাসরি 'たい' नहीं लगता; ます-stem (行き) के साथ '行きたいです' बनता है।"
+    },
+    "quiz": [
+      {
+        "question": "'मैं पानी पीना चाहता हूँ' का सही जापानी अनुवाद चुनें:",
+        "options": [
+          "水を飲みます",
+          "水を飲みたいです",
+          "水が飲むです",
+          "水を飲まないです"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "क्रिया '飲む' का stem '飲み' + 'たいです' मिलकर '飲みたいです' बनता है।"
+      },
+      {
+        "question": "'行きたい' का नकारात्मक (Negative: नहीं जाना चाहता) रूप क्या होगा?",
+        "options": [
+          "行きたくない",
+          "行かないたい",
+          "行きたいじゃない",
+          "行きませんたい"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "たい-form 'い-विशेषण' की तरह बदलकर '〜たくない' (ikitakunai) बनता है।"
+      },
+      {
+        "question": "तीसरे व्यक्ति (Third person) की इच्छा के बारे में क्या नियम है?",
+        "options": [
+          "たいです लगाना अनिवार्य है",
+          "सीधे たいです नहीं लगाते, तागत्ते-इमासु प्रयुक्त होता है",
+          "हमेशा ます रूप लगाते हैं",
+          "কোনो नियम नहीं है"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "तीसरे व्यक्ति के लिए '〜たがっています' (tagatte imasu) प्रयुक्त होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-17-mashou",
+    "pointNumber": 17,
+    "titleJp": "〜ましょう / 〜ましょうか",
+    "titleHindi": "प्रस्ताव व आमंत्रण: 'चलो ... करते हैं / क्या हम ...?' (Let's / Shall we?)",
+    "formula": "[Verb Stem] + ましょう (Let's) / ましょうか (Shall we? / Should I?)",
+    "explanationHindi": "'〜ましょう' का प्रयोग श्रोता को साथ मिलकर कोई काम करने का प्रस्ताव (Let's...) देने के लिए होता है।\n'〜ましょうか' के दो मुख्य उपयोग हैं: (1) किसी कार्य का सुझाव या आमंत्रण देना (Shall we?), (2) किसी अन्य व्यक्ति को अपनी सहायता की पेशकश करना (Shall I help you?)।",
+    "hindiComparison": "हिंदी के 'चलो ... करते हैं' या 'क्या हम ... करें?' के लगभग समान है।\nभिन्नता: जापानी '〜ましょうか' का प्रयोग सहायता देने के लिए भी होता है (जैसे: '持ちましょうか' - क्या मैं आपका सामान उठा दूँ?), जबकि हिंदी में इसके लिए 'क्या मैं करूँ?' अलग वाक्य संरचना होती है।",
+    "examples": [
+      {
+        "jp": "一緒にご飯を食べましょう。",
+        "romaji": "Isshoni gohan o tabemashou.",
+        "hindi": "चलो साथ में खाना खाते हैं।",
+        "noteHindi": "Isshoni (साथ में) + gohan (खाना) + tabemashou (चलो खाते हैं)।"
+      },
+      {
+        "jp": "駅まで歩きましょうか。",
+        "romaji": "Eki made arukimashou ka.",
+        "hindi": "क्या हम स्टेशन तक पैदल चलें?",
+        "noteHindi": "Eki made (स्टेशन तक) + arukimashou ka (क्या हम चलें?)।"
+      },
+      {
+        "jp": "一緒に本を読みましょうか。",
+        "romaji": "Isshoni hon o yomimashou ka.",
+        "hindi": "क्या हम साथ मिलकर किताब पढ़ें? (प्रस्ताव)",
+        "noteHindi": "Isshoni (साथ) + hon (किताब) + yomimashou ka (क्या पढ़ें?)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "一緒に食べません。",
+      "correctionJp": "一緒に食べましょう / 食べませんか。",
+      "explanationHindi": "'〜ません' केवल नकारात्मक इनकार है। आमंत्रण देने के लिए '〜ましょう' या अधिक विनम्र '〜ませんか' प्रयुक्त होता है।"
+    },
+    "quiz": [
+      {
+        "question": "'चलो साथ में खाना खाते हैं' के लिए सही रूप चुनें:",
+        "options": [
+          "食べます",
+          "食べましょう",
+          "食べました",
+          "食べたい"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "साथ मिलकर कार्य करने के प्रस्ताव (Let's) के लिए '〜ましょう' (tabemashou) लगता है।"
+      },
+      {
+        "question": "'क्या हम स्टेशन तक पैदल चलें?' का जापानी अनुवाद क्या है?",
+        "options": [
+          "駅まで歩きます",
+          "駅まで歩きましょうか",
+          "駅まで歩きました",
+          "駅まで歩かない"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "प्रस्तावित प्रश्न के लिए '〜ましょうか' (arukimashou ka) लगता है।"
+      },
+      {
+        "question": "'〜ましょうか' का दूसरा उपयोग क्या है?",
+        "options": [
+          "आदेश देना",
+          "किसी को सहायता की पेशकश करना",
+          "बीता हुआ समय बताना",
+          "मनाही करना"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'〜ましょうか' का उपयोग सामने वाले को सहायता देने की पेशकश (Shall I help?) के लिए भी होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-18-temo-ii-wa-ikemasen",
+    "pointNumber": 18,
+    "titleJp": "〜てもいいです / 〜てはいけません",
+    "titleHindi": "अनुमति व निषेध: '... सकते हैं / ... मना है' (Permission & Prohibition)",
+    "formula": "[Verb て-form] + もいいです (अनुमति) / は(wa)いけません (सख्त मनाही)",
+    "explanationHindi": "'〜てもいいです' का प्रयोग किसी कार्य की अनुमति (Permission: '... कर सकते हैं') देने या '〜てもいいですか' से अनुमति माँगने के लिए होता है।\n'〜てはいけません' का प्रयोग नियमों, कानूनों या सार्वजनिक स्थानों पर सख्त मनाही (Prohibition: '... करना मना है / नहीं कर सकते') व्यक्त करने के लिए होता है।",
+    "hindiComparison": "हिंदी के '... सकते हैं' (अनुमति) और '... करना मना है' (निषेध) के लगभग समान है।\nभिन्नता: 'てはいけません' नियम या उच्च पदस्थ व्यक्ति द्वारा लगाई गई पाबंदी दर्शाता है; व्यक्तिगत असमर्थता (Cannot do / Unable to do) के लिए इसका प्रयोग नहीं किया जाता।",
+    "examples": [
+      {
+        "jp": "椅子に座ってもいいですか。",
+        "romaji": "Isu ni suwatte mo ii desu ka.",
+        "hindi": "क्या मैं कुर्सी पर बैठ सकता हूँ?",
+        "noteHindi": "Isu ni (कुर्सी पर) + suwatte mo ii desu ka (क्या बैठना ठीक है?)।"
+      },
+      {
+        "jp": "公園で寝てはいけません。",
+        "romaji": "Kouen de nete wa ikemasen.",
+        "hindi": "पार्क में सोना मना है।",
+        "noteHindi": "Kouen de (पार्क में) + nete wa ikemasen (सोना सख्त मना है)।"
+      },
+      {
+        "jp": "部屋でお茶を飲んでもいいです。",
+        "romaji": "Heya de ocha o nonde mo ii desu.",
+        "hindi": "आप कमरे में चाय पी सकते हैं।",
+        "noteHindi": "Heya de (कमरे में) + nonde mo ii desu (पी सकते हैं)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "ここで座るもいいです。",
+      "correctionJp": "ここで座ってもいいです。",
+      "explanationHindi": "डिक्शनरी रूप (座る) के साथ नहीं, बल्कि क्रिया के 'て-form' (座って) के साथ '〜てもいいです' जुड़ता है।"
+    },
+    "quiz": [
+      {
+        "question": "'यहाँ बैठ सकते हैं' के लिए सही संरचना चुनें:",
+        "options": [
+          "座るもいいです",
+          "座ってもいいです",
+          "座りましょう",
+          "座るはいけません"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "अनुमति देने के लिए て-form (座って) + もいいです का प्रयोग होता है।"
+      },
+      {
+        "question": "'पार्क में सोना सख्त मना है' के लिए सही वाक्य क्या है?",
+        "options": [
+          "公園で寝てもいいです",
+          "公園で寝てはいけません",
+          "公園で寝ます",
+          "公園で寝たいです"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "सख्त मनाही के लिए て-form + 'はいけません' (nete wa ikemasen) लगता है।"
+      },
+      {
+        "question": "'〜てはいけません' में 'は' का उच्चारण क्या होता है?",
+        "options": [
+          "ha (ह)",
+          "wa (वा)",
+          "ba (बा)",
+          "pa (पा)"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "कण/पार्टिकल के रूप में लिखे 'は' का उच्चारण 'wa' (वा) होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-19-koto-ga-dekiru",
+    "pointNumber": 19,
+    "titleJp": "〜ことができます",
+    "titleHindi": "योग्यता व सामर्थ्य: 'कर सकता हूँ' (Can do / Ability)",
+    "formula": "[Verb Dictionary Form] + ことができます / ことができません",
+    "explanationHindi": "किसी कार्य को करने की क्षमता, कौशल या परिस्थितिजन्य संभावना ('... कर सकता हूँ') व्यक्त करने के लिए क्रिया के डिक्शनरी रूप (辞書形) के आगे 'ことができます' जोड़ा जाता है।\n'こと' (बात/कार्य) क्रिया को संज्ञा में बदलता है और 'できます' (हो सकता है) सामर्थ्य दर्शाता है।",
+    "hindiComparison": "हिंदी के 'क्रिया + सकना' (जैसे: पढ़ सकता हूँ, खा सकता हूँ) के लगभग समान है।\nभिन्नता: हिंदी में 'सकना' सहायक क्रिया सीधे जुड़ती है, जबकि जापानी में पहले 'こと' जोड़कर कार्य को संज्ञा बनाया जाता है और फिर 'ができる' (हो पाना) लगाया जाता है।",
+    "examples": [
+      {
+        "jp": "日本語の本を読むことができます。",
+        "romaji": "Nihongo no hon o yomu koto ga dekimasu.",
+        "hindi": "मैं जापानी की किताब पढ़ सकता हूँ।",
+        "noteHindi": "Hon o yomu (किताब पढ़ना) + koto ga dekimasu (संभव है/सकता हूँ)।"
+      },
+      {
+        "jp": "魚を食べることができますか。",
+        "romaji": "Sakana o taberu koto ga dekimasu ka.",
+        "hindi": "क्या आप मछली खा सकते हैं?",
+        "noteHindi": "Taberu (खाना) + koto ga dekimasu ka (क्या खा सकते हैं?)।"
+      },
+      {
+        "jp": "自転車を買うことができません。",
+        "romaji": "Jitensha o kau koto ga dekimasen.",
+        "hindi": "साइकिल नहीं खरीद सकता हूँ।",
+        "noteHindi": "Kau (खरीदना) + koto ga dekimasen (असमर्थ हूँ)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "日本語を読みますことができます。",
+      "correctionJp": "日本語を読むことができます。",
+      "explanationHindi": "'こと' के पहले हमेशा क्रिया का मूल डिक्शनरी रूप (辞書形: 読む) आता है, ます-form नहीं।"
+    },
+    "quiz": [
+      {
+        "question": "'मैं जापानी किताब पढ़ सकता हूँ' का सही अनुवाद चुनें:",
+        "options": [
+          "本を読みますことができます",
+          "本を読むことができます",
+          "本を読みたいです",
+          "本を読んでできます"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "डिक्शनरी रूप '読む' + ことができます सही व्याकरण है।"
+      },
+      {
+        "question": "'〜ことができます' में 'こと' का मुख्य कार्य क्या है?",
+        "options": [
+          "क्रिया को भूतकाल बनाना",
+          "क्रिया को संज्ञा (Nominalize) बनाना",
+          "आदेश देना",
+          "प्रश्न पूछना"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'こと' क्रिया को संज्ञा (कार्य/बात) में रूपांतरित करता है।"
+      },
+      {
+        "question": "'मछली नहीं खा सकता' (नकारात्मक सामर्थ्य) के लिए क्या लगेगा?",
+        "options": [
+          "食べることができます",
+          "食べることができません",
+          "食べないことができます",
+          "食べるではありません"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "नकारात्मक सामर्थ्य के लिए '〜ことができません' (koto ga dekimasen) लगता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-20-kara-node",
+    "pointNumber": 20,
+    "titleJp": "〜から / 〜ので",
+    "titleHindi": "कारण बताना: 'क्योंकि / इसलिए' (Because / Reason)",
+    "formula": "[कारण उपवाक्य] + から / ので, [परिणाम उपवाक्य]",
+    "explanationHindi": "किसी कार्य का कारण या वजह बताने के लिए 'から' या 'ので' का प्रयोग होता है।\nमुख्य अंतर (Formality & Directness):\n1. 'から' (Kara): प्रत्यक्ष, व्यक्तिपरक (Subjective) कारण है। इसका प्रयोग व्यक्तिगत राय, आदेशों, सुझावों और आग्रहों के साथ खुलकर होता है।\n2. 'ので' (Node): विनम्र, वस्तुनिष्ठ (Objective) कारण है। यह परिस्थिति को स्वाभाविक बताते हुए सामाजिक शिष्टाचार और विनम्र निवेदनों के लिए उपयुक्त होता है।",
+    "hindiComparison": "हिंदी में दोनों का अनुवाद 'क्योंकि / इसलिए' होता है।\nभिन्नता: हिंदी में 'क्योंकि' वाक्य के आरंभ में आ सकता है ('क्योंकि बारिश हो रही है, इसलिए...'), जबकि जापानी में कारण हमेशा पहले आता है और 'から / ので' कारण उपवाक्य के ठीक अंत में चिपकता है। इसके अलावा 'ので' के साथ सीधे आदेश देना अशुद्ध माना जाता है।",
+    "examples": [
+      {
+        "jp": "雨が降っていますから、傘を持って行きます。",
+        "romaji": "Ame ga futte imasu kara, kasa o motte ikimasu.",
+        "hindi": "क्योंकि बारिश हो रही है, इसलिए छाता लेकर जाता हूँ।",
+        "noteHindi": "Ame ga futte imasu kara (बारिश हो रही है इसलिए) + motte ikimasu।"
+      },
+      {
+        "jp": "頭が痛いので、早く寝ます。",
+        "romaji": "Atama ga itai node, hayaku nemasu.",
+        "hindi": "सिर में दर्द होने के कारण जल्दी सो रहा हूँ। (विनम्र कारण)",
+        "noteHindi": "Atama ga itai node (सिरदर्द होने से) + hayaku nemasu (जल्दी सोता हूँ)।"
+      },
+      {
+        "jp": "夜ですから、部屋で寝ましょう。",
+        "romaji": "Yoru desu kara, heya de nemashou.",
+        "hindi": "रात हो गई है, इसलिए कमरे में सोते हैं।",
+        "noteHindi": "सुझाव/प्रस्ताव (〜ましょう) के साथ 'から' का प्रयोग स्वाभाविक है।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "危ないので、入るな！ (Command with node)",
+      "correctionJp": "危ないから、入るな！",
+      "explanationHindi": "कड़े आदेशों या प्रत्यक्ष सुझावों के साथ 'ので' नहीं, बल्कि 'から' का प्रयोग किया जाता है।"
+    },
+    "quiz": [
+      {
+        "question": "सामाजिक शिष्टाचार और विनम्र निवेदनों के लिए अधिक उपयुक्त कारण-सूचक शब्द कौन सा है?",
+        "options": [
+          "から (Kara)",
+          "ので (Node)",
+          "けど (Kedo)",
+          "とき (Toki)"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'ので' वस्तुनिष्ठ और सामाजिक रूप से अधिक विनम्र माना जाता है।"
+      },
+      {
+        "question": "'雨が降っていますから、傘を持って行きます' में कारण क्या है?",
+        "options": [
+          "छाता ले जाना",
+          "बारिश होना",
+          "चलना",
+          "जापान जाना"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'から' से पहले वाला हिस्सा (雨が降っています - बारिश हो रही है) कारण है।"
+      },
+      {
+        "question": "सुझाव या आदेश वाले वाक्यों (जैसे 〜ましょう) के साथ क्या लगाना स्वाभाविक है?",
+        "options": [
+          "ので",
+          "から",
+          "まえに",
+          "ながら"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "व्यक्तिपरक सुझाव और आग्रह के साथ 'から' उपयुक्त होता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-21-kedo-ga",
+    "pointNumber": 21,
+    "titleJp": "〜けど / 〜が",
+    "titleHindi": "विरोधाभास व प्रस्तावना: 'लेकिन / परंतु' (But / Contrast)",
+    "formula": "[उपवाक्य A] + けど (Casual) / が (Polite), [उपवाक्य B]",
+    "explanationHindi": "दो विपरीत या विरोधाभासी कथनों को जोड़ने के लिए '〜が' (विनम्र) या '〜けど' (अनौपचारिक/बोलचाल) का प्रयोग होता है ('... लेकिन / परंतु')।\nइसके अतिरिक्त, जापानी में 'が / けど' का एक अत्यंत महत्वपूर्ण उपयोग बातचीत शुरू करते समय 'भूमिका / कुशन' (Preamble) की तरह होता है (जैसे: すみませんが... - माफ़ कीजिए, लेकिन...)।",
+    "hindiComparison": "हिंदी के 'लेकिन / परंतु' के लगभग समान है।\nभिन्नता: हिंदी में 'लेकिन' वाक्य के आरंभ में भी आ सकता है, जबकि जापानी में 'が / けど' पहले उपवाक्य के अंत में ही जुड़ता है। इसके अलावा जापानी में बिना किसी विरोध के भी केवल बात शुरू करने के लिए 'すみませんが' लगाया जाता है।",
+    "examples": [
+      {
+        "jp": "この本は高いですが、いい本です。",
+        "romaji": "Kono hon wa takai desu ga, ii hon desu.",
+        "hindi": "यह किताब महँगी है, परंतु अच्छी है।",
+        "noteHindi": "Takai desu ga (महँगी है लेकिन) + ii hon desu (अच्छी किताब है)।"
+      },
+      {
+        "jp": "この部屋は小さいけど、新しいです。",
+        "romaji": "Kono heya wa chiisai kedo, atarashii desu.",
+        "hindi": "यह कमरा छोटा है, लेकिन नया है।",
+        "noteHindi": "Chiisai kedo (छोटा है लेकिन - अनौपचारिक) + atarashii desu।"
+      },
+      {
+        "jp": "すみませんが、駅はどこですか。",
+        "romaji": "Sumimasen ga, eki wa doko desu ka.",
+        "hindi": "माफ़ कीजिए, लेकिन स्टेशन कहाँ है?",
+        "noteHindi": "Sumimasen ga (विनम्र भूमिका / Preamble) + प्रश्न।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "この本は高いですしかし、いいです。",
+      "correctionJp": "この本は高いですが、いいです。",
+      "explanationHindi": "'しかし' एक स्वतंत्र शब्द है जो नए वाक्य के शुरू में आता है; उपवाक्य के अंत में जोड़ने के लिए '〜が' या '〜けど' का प्रयोग होता है।"
+    },
+    "quiz": [
+      {
+        "question": "बोलचाल (Casual speech) में 'लेकिन' के लिए क्या प्रयुक्त होता है?",
+        "options": [
+          "が (Ga)",
+          "けど (Kedo)",
+          "から (Kara)",
+          "ので (Node)"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "अनौपचारिक बातचीत में 'けど' (kedo) सबसे अधिक प्रयुक्त होता है।"
+      },
+      {
+        "question": "'すみませんが、駅はどこですか' में 'が' का क्या उद्देश्य है?",
+        "options": [
+          "सख्त विरोध दिखाना",
+          "विनम्रता से बातचीत की भूमिका बनाना (Preamble)",
+          "कारण बताना",
+          "आदेश देना"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'すみませんが' विनम्र कुशन की तरह प्रश्न पूछने से पहले उपयोग होता है।"
+      },
+      {
+        "question": "'कमरा छोटा है, लेकिन नया है' का जापानी अनुवाद क्या है?",
+        "options": [
+          "部屋は小さいから新しい",
+          "部屋は小さいけど新しいです",
+          "部屋は小さいために新しい",
+          "部屋は小さいなら新しい"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "विरोध जोड़ने के लिए '小さいけど' सही है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-22-mae-ni-ato-de",
+    "pointNumber": 22,
+    "titleJp": "〜まえに / 〜あとで",
+    "titleHindi": "समय का क्रम: '... से पहले / ... के बाद' (Before & After)",
+    "formula": "[Verb Dict Form] + まえに (Before) / [Verb た-form or Noun の] + あとで (After)",
+    "explanationHindi": "कार्यों के कालक्रम (Sequence of actions) को दर्शाने के लिए इन दो संरचनाओं का प्रयोग होता है:\n1. '〜まえに' (Mae ni): किसी कार्य से पहले ('... करने से पहले')। इसके पूर्व क्रिया हमेशा मूल डिक्शनरी रूप (辞書形) में रहती है।\n2. '〜あとで' (Ato de): किसी कार्य के उपरांत ('... करने के बाद')। इसके पूर्व क्रिया हमेशा भूतकालिक た-form (या संज्ञा + の) में रहती है।",
+    "hindiComparison": "हिंदी के '... से पहले' और '... के बाद' के लगभग समान है।\nभिन्नता: जापानी में 'まえに' के पहले कभी भी भूतकाल (た-form) नहीं लग सकता, भले ही पूरा वाक्य भूतकाल का हो ('सोने से पहले पढ़ा था' = 寝る前に 読みました, '寝たまえに' कहना गलत है)।",
+    "examples": [
+      {
+        "jp": "寝る前に、本を読みます。",
+        "romaji": "Neru mae ni, hon o yomimasu.",
+        "hindi": "सोने से पहले किताब पढ़ता हूँ।",
+        "noteHindi": "Neru (डिक्शनरी रूप) + mae ni (से पहले) + hon o yomimasu।"
+      },
+      {
+        "jp": "ご飯を食べたあとで、お茶を飲みます。",
+        "romaji": "Gohan o tabeta ato de, ocha o nomimasu.",
+        "hindi": "खाना खाने के बाद चाय पीता हूँ।",
+        "noteHindi": "Tabeta (た-form) + ato de (के बाद) + ocha o nomimasu।"
+      },
+      {
+        "jp": "旅行のあとで、友達と遊びました。",
+        "romaji": "Ryokou no ato de, tomodachi to asobimashita.",
+        "hindi": "यात्रा के बाद दोस्तों के साथ खेला।",
+        "noteHindi": "Ryokou (संज्ञा) + no ato de (के बाद) + asobimashita।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "寝たまえに、本を読みました。",
+      "correctionJp": "寝る前に、本を読みました。",
+      "explanationHindi": "'まえに' के पहले हमेशा डिक्शनरी रूप (寝る) आता है, चाहे मुख्य क्रिया भूतकाल (読みました) में ही क्यों न हो।"
+    },
+    "quiz": [
+      {
+        "question": "'〜まえに' (से पहले) के साथ क्रिया का कौन सा रूप जुड़ता है?",
+        "options": [
+          "た-form (भूतकाल)",
+          "डिक्शनरी रूप (辞書形)",
+          "ます-form",
+          "て-form"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'まえに' के साथ क्रिया हमेशा डिक्शनरी रूप में आती है।"
+      },
+      {
+        "question": "'खाना खाने के बाद' का सही जापानी रूप क्या होगा?",
+        "options": [
+          "ご飯を食べるあとで",
+          "ご飯を食べたあとで",
+          "ご飯を食べますあとで",
+          "ご飯を食べてあとで"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'あとで' के पूर्व क्रिया का た-form (食べた) जुड़ता है।"
+      },
+      {
+        "question": "संज्ञा (जैसे 旅行) के बाद 'के बाद' लगाने के लिए क्या जोड़ते हैं?",
+        "options": [
+          "旅行あとで",
+          "旅行のあとで",
+          "旅行をあとで",
+          "旅行にあるあとで"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "संज्ञा के साथ 'の' जोड़कर '旅行のあとで' बनता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-23-toki",
+    "pointNumber": 23,
+    "titleJp": "〜とき",
+    "titleHindi": "समय सूचक उपवाक्य: 'जब ... तब / के समय' (When)",
+    "formula": "[Verb Dict / い-Adj / な-Adj な / Noun の] + とき (When / At the time of)",
+    "explanationHindi": "सरल वाक्यों में समय की स्थिति ('जब ऐसा होता है / उस समय') दर्शाने के लिए 'とき' (Toki) का प्रयोग होता है।\nजोड़ने के नियम:\n- क्रिया: डिक्शनरी रूप (जैसे: 行くとき)\n- い-विशेषण: मूल रूप (जैसे: 暑いとき)\n- な-विशेषण: 'な' के साथ (जैसे: 暇なとき)\n- संज्ञा: 'の' के साथ (जैसे: 子供のとき)",
+    "hindiComparison": "हिंदी के 'जब ... तब' या '... के समय' के लगभग समान है।\nभिन्नता: हिंदी में 'जब' वाक्य के शुरू में आता है, जबकि जापानी में 'とき' उपवाक्य के अंत में संज्ञा की तरह जुड़ता है। (N5 स्तर पर जटिल काल-सामंजस्य के बजाय केवल सरल वर्तमान/संज्ञा पैटर्न सीखें)।",
+    "examples": [
+      {
+        "jp": "一人のとき、本を読みます。",
+        "romaji": "Hitori no toki, hon o yomimasu.",
+        "hindi": "जब अकेला होता हूँ, तब किताब पढ़ता हूँ।",
+        "noteHindi": "Hitori (अकेला/संज्ञा) + no toki (के समय) + hon o yomimasu।"
+      },
+      {
+        "jp": "雨のとき、傘を持ちます。",
+        "romaji": "Ame no toki, kasa o mochimasu.",
+        "hindi": "जब बारिश होती है, तब छाता रखता हूँ।",
+        "noteHindi": "Ame (बारिश) + no toki (के समय) + kasa o mochimasu।"
+      },
+      {
+        "jp": "子供のとき、よく公園で遊びました。",
+        "romaji": "Kodomo no toki, yoku kouen de asobimashita.",
+        "hindi": "जब मैं बच्चा था, तब अक्सर पार्क में खेलता था।",
+        "noteHindi": "Kodomo (बच्चा) + no toki (के समय) + asobimashita।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "子供とき、遊びました。",
+      "correctionJp": "子供のとき、遊びました。",
+      "explanationHindi": "संज्ञा के साथ 'とき' जोड़ते समय 'の' (Kodomo no toki) लगाना अनिवार्य है।"
+    },
+    "quiz": [
+      {
+        "question": "संज्ञा के साथ 'とき' (When) जोड़ने के लिए क्या नियम है?",
+        "options": [
+          "सीधे संज्ञा जोड़ते हैं",
+          "संज्ञा + の + とき",
+          "संज्ञा + な + とき",
+          "संज्ञा + を + とき"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "संज्ञा के साथ 'Noun + の + とき' (जैसे: 子供のとき) प्रयुक्त होता है।"
+      },
+      {
+        "question": "'雨のとき、傘を持ちます' का सही अर्थ क्या है?",
+        "options": [
+          "बारिश के बाद छाता लेता हूँ",
+          "जब बारिश होती है, तब छाता रखता हूँ",
+          "बारिश से पहले छाता खरीदा",
+          "बारिश में छाता नहीं है"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "'雨のとき' का अर्थ 'बारिश के समय / जब बारिश हो' होता है।"
+      },
+      {
+        "question": "な-विशेषण के साथ 'とき' कैसे जुड़ता है?",
+        "options": [
+          "Adj + の + とき",
+          "Adj + な + とき",
+          "Adj + い + とき",
+          "Adj + で + とき"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "ना-विशेषण के साथ 'な' (जैसे: 暇なとき) लगता है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-24-nagara",
+    "pointNumber": 24,
+    "titleJp": "〜ながら",
+    "titleHindi": "दो क्रियाएँ एक साथ: '... करते हुए / साथ-साथ' (Simultaneous actions)",
+    "formula": "[Verb Stem (ます-form minus ます)] + ながら, [Main Action Verb]",
+    "explanationHindi": "एक ही कर्ता द्वारा दो क्रियाओं को एक ही समय पर साथ-साथ करने ('... करते हुए') को व्यक्त करने के लिए '〜ながら' का प्रयोग होता है।\nमहत्वपूर्ण नियम: 'ながら' के बाद आने वाली क्रिया वाक्य की मुख्य क्रिया (Primary focus) होती है, जबकि 'ながら' वाली क्रिया सहायक होती है।",
+    "hindiComparison": "हिंदी के 'क्रिया + हुए' (जैसे: चाय पीते हुए अख़बार पढ़ना) के लगभग समान है।\nभिन्नता: जापानी में मुख्य कार्य हमेशा 'ながら' के बाद आता है। यदि आप कहें '新聞を読みながらお茶を飲む' तो इसका अर्थ है मुख्य काम चाय पीना है, अख़बार पढ़ना सहायक है।",
+    "examples": [
+      {
+        "jp": "お茶を飲みながら、新聞を読みます。",
+        "romaji": "Ocha o nominagara, shinbun o yomimasu.",
+        "hindi": "चाय पीते हुए अख़बार पढ़ता हूँ।",
+        "noteHindi": "Nomimasu का stem 'Nomi' + nagara (पीते हुए) + shinbun o yomimasu।"
+      },
+      {
+        "jp": "歩きながら、ご飯を食べてはいけません。",
+        "romaji": "Arukinagara, gohan o tabete wa ikemasen.",
+        "hindi": "चलते-चलते खाना नहीं खाना चाहिए।",
+        "noteHindi": "Aruki (चलते) + nagara + tabete wa ikemasen।"
+      },
+      {
+        "jp": "友達と話しながら、駅まで歩きました。",
+        "romaji": "Tomodachi to hanashinagara, eki made arukimashita.",
+        "hindi": "दोस्त से बात करते हुए स्टेशन तक पैदल चला।",
+        "noteHindi": "Hanashi + nagara (बात करते हुए) + arukimashita।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "飲むながら、新聞を読みます。",
+      "correctionJp": "飲みながら、新聞を読みます。",
+      "explanationHindi": "डिक्शनरी रूप (飲む) के साथ 'ながら' नहीं लगता; ます-stem (飲み) के साथ '飲みながら' बनता है।"
+    },
+    "quiz": [
+      {
+        "question": "'चाय पीते हुए अख़बार पढ़ता हूँ' में 'पीते हुए' का सही रूप क्या है?",
+        "options": [
+          "飲むながら",
+          "飲みながら",
+          "飲んでながら",
+          "飲んだながら"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "Verb stem '飲み' + ながら = 飲みながら (nominagara)।"
+      },
+      {
+        "question": "'〜ながら' वाक्य में मुख्य क्रिया (Primary focus) कहाँ आती है?",
+        "options": [
+          "वाक्य के सबसे पहले",
+          "ながら के ठीक बाद (वाक्य के अंत में)",
+          "कहीं भी आ सकती है",
+          "हमेशा भूतकाल में"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "मुख्य क्रिया हमेशा 'ながら' के बाद वाक्य के अंत में आती है।"
+      },
+      {
+        "question": "'歩きながら、ご飯を食べてはいけません' का अर्थ क्या है?",
+        "options": [
+          "चलने के बाद खाना खाएं",
+          "चलते-चलते खाना नहीं खाना चाहिए",
+          "खाना खाते हुए चल सकते हैं",
+          "पहले चलें फिर खाएं"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "इसका अर्थ है चलते हुए खाना मना है।"
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "grammar-25-nakereba-narimasen",
+    "pointNumber": 25,
+    "titleJp": "〜なければなりません",
+    "titleHindi": "अनिवार्यता व कर्तव्य: '... करना ही होगा / अनिवार्य है' (Must / Have to)",
+    "formula": "[Verb ない-form minus い] + ければなりません / ければいけません",
+    "explanationHindi": "किसी कर्तव्य, दायित्व या अनिवार्यता ('... करना ही पड़ेगा / आवश्यक है') को व्यक्त करने के लिए क्रिया के नकारात्मक 'ない-form' के 'い' को हटाकर '〜なければなりません' जोड़ा जाता है।\nशाब्दिक अर्थ: 'यदि नहीं किया तो नहीं चलेगा' (If not done, it won't do) — यह जापानी भाषा की दोहरे नकारात्मक से कर्तव्य जताने की विशेष शैली है।",
+    "hindiComparison": "हिंदी के '... करना पड़ेगा / करना आवश्यक है' के लगभग समान है।\nभिन्नता: हिंदी में 'पड़ेगा' या 'चाहिए' एक सीधा सकारात्मक शब्द है, जबकि जापानी में यह दोहरे नकारात्मक (Double Negative: नहीं किया तो काम नहीं बनेगा) से बनता है।",
+    "examples": [
+      {
+        "jp": "毎日、日本語の本を読まなければなりません。",
+        "romaji": "Mainichi, Nihongo no hon o yomanakereba narimasen.",
+        "hindi": "हर रोज़ जापानी की किताब पढ़नी ही होगी।",
+        "noteHindi": "Yomanai (नहीं पढ़ना) ➔ Yomanakereba narimasen (पढ़ना ही होगा)।"
+      },
+      {
+        "jp": "明日、早く起きなければなりません。",
+        "romaji": "Ashita, hayaku okinakereba narimasen.",
+        "hindi": "कल सुबह जल्दी उठना ही पड़ेगा।",
+        "noteHindi": "Okinai ➔ Okinakereba narimasen (उठना ही पड़ेगा)।"
+      },
+      {
+        "jp": "明日、学校へ行かなければいけませんか。",
+        "romaji": "Ashita, gakkou e ikanakereba ikemasen ka.",
+        "hindi": "क्या कल स्कूल जाना अनिवार्य है?",
+        "noteHindi": "Ikanakereba ikemasen ka (क्या जाना ही पड़ेगा?)।"
+      }
+    ],
+    "commonMistake": {
+      "mistakeJp": "行かないければなりません。",
+      "correctionJp": "行かなければなりません。",
+      "explanationHindi": "ない-form के 'い' को हटाकर 'なければ' जोड़ा जाता है (行かない ➔ 行かな + ければ)。"
+    },
+    "quiz": [
+      {
+        "question": "'उठना ही पड़ेगा' (Must wake up) के लिए '起きる' का सही रूप क्या है?",
+        "options": [
+          "起きるなければなりません",
+          "起きなければなりません",
+          "起きないければなりません",
+          "起きてなりません"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "ない-form '起きない' का 'い' हटकर '起きなければなりません' बनता है।"
+      },
+      {
+        "question": "'〜なければなりません' का शाब्दिक (literal) अर्थ क्या है?",
+        "options": [
+          "यदि किया तो अच्छा होगा",
+          "यदि नहीं किया तो नहीं चलेगा (दोहरा नकारात्मक)",
+          "कृपया ऐसा कीजिए",
+          "कभी नहीं करना चाहिए"
+        ],
+        "correctIndex": 1,
+        "explanationHindi": "इसका शाब्दिक अर्थ है 'यदि नहीं किया तो नहीं चलेगा'।"
+      },
+      {
+        "question": "'〜なければなりません' का वैकल्पिक विनम्र रूप कौन सा है?",
+        "options": [
+          "〜なければいけません",
+          "〜てもいいです",
+          "〜てはいけません",
+          "〜たいです"
+        ],
+        "correctIndex": 0,
+        "explanationHindi": "'〜なければいけません' भी समान अर्थ में व्यापक रूप से प्रयुक्त होता है।"
+      }
+    ],
+    "needs_review": true
+  }
+]

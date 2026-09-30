@@ -1,0 +1,59 @@
+[
+  {
+    "id": "unit-1",
+    "unitNumber": 1,
+    "titleHindi": "जापानी लिपि की शुरुआत: हिरागाना (Hiragana)",
+    "titleJp": "ひらがなの基本",
+    "descriptionHindi": "जापानी ध्वनियाँ और वर्णमाला के पहले 5 स्वर (A, I, U, E, O)।",
+    "lessons": [
+      {
+        "id": "u1-l1",
+        "titleHindi": "स्वर ध्वनियाँ (A-Row)",
+        "titleJp": "あ・い・う・え・お",
+        "type": "kana",
+        "durationMinutes": 5,
+        "contentRef": "hiragana-a-row",
+        "needs_review": true
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "unit-2",
+    "unitNumber": 2,
+    "titleHindi": "आत्म-परिचय और वाक्य रचना (A wa B desu)",
+    "titleJp": "自己紹介と「〜です」",
+    "descriptionHindi": "जापानी और हिंदी दोनों में क्रिया (Verb) वाक्य के अंत में आती है।",
+    "lessons": [
+      {
+        "id": "u2-l1",
+        "titleHindi": "पहला वाक्य: मैं ... हूँ",
+        "titleJp": "私は〜です",
+        "type": "grammar",
+        "durationMinutes": 5,
+        "contentRef": "grammar-desu",
+        "needs_review": true
+      }
+    ],
+    "needs_review": true
+  },
+  {
+    "id": "unit-3",
+    "unitNumber": 3,
+    "titleHindi": "जापानी सहायक शब्द / Particles (は, を, に)",
+    "titleJp": "助詞の基本",
+    "descriptionHindi": "जापानी में शब्दों के संबंध दर्शाने वाले चिह्न। 'は' मुख्य विषय (Topic) को दर्शाता है।",
+    "lessons": [
+      {
+        "id": "u3-l1",
+        "titleHindi": "विषय चिह्न は (Wa - Topic Marker)",
+        "titleJp": "助詞「は」",
+        "type": "grammar",
+        "durationMinutes": 6,
+        "contentRef": "grammar-particle-wa",
+        "needs_review": true
+      }
+    ],
+    "needs_review": true
+  }
+]

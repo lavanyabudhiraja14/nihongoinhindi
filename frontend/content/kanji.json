@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "k-ichi",
+    "groupId": "group-k1",
+    "character": "一",
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "kunyomi": [
+      "ひと-つ",
+      "ひと"
+    ],
+    "meaningHindi": "एक (१)",
+    "meaningEnglish": "one",
+    "strokeCount": 1,
+    "jlptLevel": "N5",
+    "mnemonic": "एक सीधी क्षैतिज रेखा जो संख्या एक (१) को दर्शाती है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-ichi"
+    ]
+  },
+  {
+    "id": "k-ni",
+    "groupId": "group-k1",
+    "character": "二",
+    "onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "ふた-つ",
+      "ふた"
+    ],
+    "meaningHindi": "दो (२)",
+    "meaningEnglish": "two",
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "mnemonic": "दो समानांतर रेखाएँ जो संख्या दो (२) को दर्शाती हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-ni-num"
+    ]
+  },
+  {
+    "id": "k-san",
+    "groupId": "group-k1",
+    "character": "三",
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "みっ-つ",
+      "み",
+      "みつ"
+    ],
+    "meaningHindi": "तीन (३)",
+    "meaningEnglish": "three",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "तीन समानांतर रेखाएँ जो संख्या तीन (३) को दर्शाती हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-san-num"
+    ]
+  },
+  {
+    "id": "k-yon",
+    "groupId": "group-k1",
+    "character": "四",
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よっ-つ",
+      "よん",
+      "よ"
+    ],
+    "meaningHindi": "चार (४)",
+    "meaningEnglish": "four",
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "mnemonic": "एक खिड़की जिसके अंदर पर्दे के दो कोने लटक रहे हैं, चार कोने बनते हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-yon"
+    ]
+  },
+  {
+    "id": "k-go",
+    "groupId": "group-k1",
+    "character": "五",
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "いつ-つ",
+      "いつ"
+    ],
+    "meaningHindi": "पाँच (५)",
+    "meaningEnglish": "five",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "पाँच अंगुलियों से बनी एक गाँठ का आकार जो ५ को दर्शाता है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-go-num"
+    ]
+  },
+  {
+    "id": "k-roku",
+    "groupId": "group-k1",
+    "character": "六",
+    "onyomi": [
+      "ロク",
+      "リク"
+    ],
+    "kunyomi": [
+      "むっ-つ",
+      "む",
+      "むい"
+    ],
+    "meaningHindi": "छह (६)",
+    "meaningEnglish": "six",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "एक व्यक्ति जो अपनी दोनों बाहें और पैर फैलाकर खड़ा है (६ दिशाएँ)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-roku"
+    ]
+  },
+  {
+    "id": "k-nana",
+    "groupId": "group-k1",
+    "character": "七",
+    "onyomi": [
+      "シチ"
+    ],
+    "kunyomi": [
+      "なな-つ",
+      "なな",
+      "なの"
+    ],
+    "meaningHindi": "सात (७)",
+    "meaningEnglish": "seven",
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "mnemonic": "उलटा लकी सात (७) का कटानदार आकार।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-nana"
+    ]
+  },
+  {
+    "id": "k-hachi",
+    "groupId": "group-k1",
+    "character": "八",
+    "onyomi": [
+      "ハチ"
+    ],
+    "kunyomi": [
+      "やっ-つ",
+      "や",
+      "よう"
+    ],
+    "meaningHindi": "आठ (८)",
+    "meaningEnglish": "eight",
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "mnemonic": "पहाड़ की तरह नीचे की ओर खुलती दो रेखाएँ, जो समृद्धि और संख्या आठ को दर्शाती हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-hachi"
+    ]
+  },
+  {
+    "id": "k-kyuu",
+    "groupId": "group-k1",
+    "character": "九",
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "ここの-つ",
+      "ここの"
+    ],
+    "meaningHindi": "नौ (९)",
+    "meaningEnglish": "nine",
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "mnemonic": "एक व्यक्ति जो अपने एक हाथ से झुककर कुछ उठा रहा है (संख्या ९)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kyuu"
+    ]
+  },
+  {
+    "id": "k-juu",
+    "groupId": "group-k1",
+    "character": "十",
+    "onyomi": [
+      "ジュウ",
+      "ジッ"
+    ],
+    "kunyomi": [
+      "とお",
+      "と"
+    ],
+    "meaningHindi": "दस (१०)",
+    "meaningEnglish": "ten",
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "mnemonic": "एक धन (+) का चिन्ह, दोनों हाथों की दसों अंगुलियों का मिलन।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-juu"
+    ]
+  },
+  {
+    "id": "k-nichi",
+    "groupId": "group-k2",
+    "character": "日",
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "meaningHindi": "दिन / सूर्य",
+    "meaningEnglish": "day / sun",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "गोल सूरज की खिड़की जिसमें बीच में धूप की किरण दिखती है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kyou",
+      "v-ashita",
+      "v-kinou",
+      "v-nichiyoubi",
+      "v-getsuyoubi",
+      "v-nihon-country",
+      "v-mainichi"
+    ]
+  },
+  {
+    "id": "k-tsuki",
+    "groupId": "group-k2",
+    "character": "月",
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "meaningHindi": "महीना / चाँद",
+    "meaningEnglish": "month / moon",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "बादलों के बीच चमकता हुआ अर्धचंद्राकार चाँद।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-getsuyoubi",
+      "v-tsuki",
+      "v-maitsuki"
+    ]
+  },
+  {
+    "id": "k-toshi",
+    "groupId": "group-k2",
+    "character": "年",
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [
+      "とし"
+    ],
+    "meaningHindi": "वर्ष / साल",
+    "meaningEnglish": "year",
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "mnemonic": "फसल कटाई का चक्र जो हर एक वर्ष (साल) में पूरा होता है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-maitoshi"
+    ]
+  },
+  {
+    "id": "k-toki",
+    "groupId": "group-k2",
+    "character": "時",
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "とき"
+    ],
+    "meaningHindi": "समय / बजे",
+    "meaningEnglish": "time / hour",
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "mnemonic": "सूरज (日) और मंदिर (寺) का धूपघड़ी समय (時)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-jikan",
+      "v-tokei",
+      "v-tokidoki"
+    ]
+  },
+  {
+    "id": "k-ima",
+    "groupId": "group-k2",
+    "character": "今",
+    "onyomi": [
+      "コン",
+      "キン"
+    ],
+    "kunyomi": [
+      "いま"
+    ],
+    "meaningHindi": "अब / वर्तमान",
+    "meaningEnglish": "now / present",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "एक छत जिसके नीचे यह वर्तमान क्षण (अब) सुरक्षित है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-ima",
+      "v-kyou"
+    ]
+  },
+  {
+    "id": "k-saki",
+    "groupId": "group-k2",
+    "character": "先",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "さき",
+      "ま-ず"
+    ],
+    "meaningHindi": "आगे / पूर्व",
+    "meaningEnglish": "ahead / previous",
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "mnemonic": "पैर आगे बढ़ाकर चलने वाला व्यक्ति, जो पहले या आगे रहता है (जैसे 先生)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-sensei"
+    ]
+  },
+  {
+    "id": "k-shuu",
+    "groupId": "group-k2",
+    "character": "週",
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "meaningHindi": "सप्ताह / हफ़्ता",
+    "meaningEnglish": "week",
+    "strokeCount": 11,
+    "jlptLevel": "N5",
+    "mnemonic": "सड़क (辶) पर सात दिनों का एक पूरा चक्कर (周) यानी सप्ताह।",
+    "note": "इसका केवल ओन्योमी (シュウ) N5 में मुख्य रूप से प्रयुक्त होता है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-maishuu"
+    ]
+  },
+  {
+    "id": "k-mai",
+    "groupId": "group-k2",
+    "character": "毎",
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "ごと"
+    ],
+    "meaningHindi": "प्रत्येक / हर",
+    "meaningEnglish": "every",
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "mnemonic": "एक माँ (母) जो हर दिन अपने बच्चों की देखभाल करती है (हर / प्रत्येक)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-mainichi",
+      "v-maishuu",
+      "v-maitsuki",
+      "v-maitoshi"
+    ]
+  },
+  {
+    "id": "k-asa",
+    "groupId": "group-k2",
+    "character": "朝",
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "meaningHindi": "सुबह / प्रातः",
+    "meaningEnglish": "morning",
+    "strokeCount": 12,
+    "jlptLevel": "N5",
+    "mnemonic": "सूरज जब घास के ऊपर उगता है और चाँद अभी ढल रहा होता है (सुबह)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-asagohan",
+      "v-asa"
+    ]
+  },
+  {
+    "id": "k-yoru",
+    "groupId": "group-k2",
+    "character": "夜",
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よる",
+      "よ"
+    ],
+    "meaningHindi": "रात / रात्रि",
+    "meaningEnglish": "night",
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "mnemonic": "शाम की छत के नीचे चाँदनी में ढलती हुई गहरी रात।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-yoru"
+    ]
+  },
+  {
+    "id": "k-hito",
+    "groupId": "group-k3",
+    "character": "人",
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "kunyomi": [
+      "ひと"
+    ],
+    "meaningHindi": "व्यक्ति / मनुष्य",
+    "meaningEnglish": "person / human",
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "mnemonic": "दो पैरों पर खड़ा हुआ व्यक्ति (मनुष्य)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-hito",
+      "v-otona"
+    ]
+  },
+  {
+    "id": "k-ko",
+    "groupId": "group-k3",
+    "character": "子",
+    "onyomi": [
+      "シ",
+      "ス"
+    ],
+    "kunyomi": [
+      "こ"
+    ],
+    "meaningHindi": "बच्चा / संतान",
+    "meaningEnglish": "child",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "कपड़ों में लिपटा हुआ नन्हा बच्चा जो हाथ फैला रहा है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kodomo",
+      "v-isu",
+      "v-boushi"
+    ]
+  },
+  {
+    "id": "k-chichi",
+    "groupId": "group-k3",
+    "character": "父",
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ],
+    "meaningHindi": "पिता / बाबूजी",
+    "meaningEnglish": "father",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "पिताजी जो दोनों हाथों में परिवार की बागडोर संभालते हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-chichi",
+      "v-otousan"
+    ]
+  },
+  {
+    "id": "k-haha",
+    "groupId": "group-k3",
+    "character": "母",
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "はは"
+    ],
+    "meaningHindi": "माता / माँ",
+    "meaningEnglish": "mother",
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "mnemonic": "माँ का करुणामयी हृदय और अपने बच्चे को दूध पिलाती छाती।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-haha",
+      "v-okaasan"
+    ]
+  },
+  {
+    "id": "k-tomo",
+    "groupId": "group-k3",
+    "character": "友",
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "meaningHindi": "मित्र / दोस्त",
+    "meaningEnglish": "friend",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "दो हाथ जो एक-दूसरे को थामकर मित्रता निभाते हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-tomodachi"
+    ]
+  },
+  {
+    "id": "k-ie",
+    "groupId": "group-k3",
+    "character": "家",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "meaningHindi": "घर / परिवार",
+    "meaningEnglish": "house / family",
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "mnemonic": "छत (宀) के नीचे सुरक्षित रहने वाला पूरा परिवार और घर।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kazoku",
+      "v-ie"
+    ]
+  },
+  {
+    "id": "k-hon",
+    "groupId": "group-k3",
+    "character": "本",
+    "onyomi": [
+      "ホン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "meaningHindi": "किताब / मूल",
+    "meaningEnglish": "book / origin",
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "mnemonic": "पेड़ (木) की जड़ में एक रेखा खींची गई है (मूल/किताब कागज से बनती है)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-nihon-country",
+      "v-hon"
+    ]
+  },
+  {
+    "id": "k-sei",
+    "groupId": "group-k3",
+    "character": "生",
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "い-きる",
+      "う-まれる",
+      "なま"
+    ],
+    "meaningHindi": "जीवन / जन्म",
+    "meaningEnglish": "life / birth",
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "mnemonic": "जमीन से फूटता हुआ हरा अंकुर जो नए जीवन और जन्म का प्रतीक है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-sensei"
+    ]
+  },
+  {
+    "id": "k-gaku",
+    "groupId": "group-k3",
+    "character": "学",
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "まな-ぶ"
+    ],
+    "meaningHindi": "सीखना / अध्ययन",
+    "meaningEnglish": "study / learn",
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "mnemonic": "स्कूल की छत के नीचे पढ़ता हुआ नन्हा बच्चा (सीखना)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-gakkou"
+    ]
+  },
+  {
+    "id": "k-kou",
+    "groupId": "group-k3",
+    "character": "校",
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [],
+    "meaningHindi": "विद्यालय / स्कूल भवन",
+    "meaningEnglish": "school building",
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "mnemonic": "लकड़ी (木) की इमारत जहाँ लोग आदान-प्रदान (交) और शिक्षा लेते हैं।",
+    "note": "इसका केवल ओन्योमी (コウ) N5 में मुख्य रूप से प्रयुक्त होता है (जैसे 学校)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-gakkou"
+    ]
+  },
+  {
+    "id": "k-oo",
+    "groupId": "group-k4",
+    "character": "大",
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "おお-きい",
+      "おお-"
+    ],
+    "meaningHindi": "बड़ा / विशाल",
+    "meaningEnglish": "big / large",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "एक व्यक्ति जो दोनों हाथ फैलाकर बता रहा है कि कितना बड़ा है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-ookii",
+      "v-otona"
+    ]
+  },
+  {
+    "id": "k-chii",
+    "groupId": "group-k4",
+    "character": "小",
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ちい-さい",
+      "こ-",
+      "お-"
+    ],
+    "meaningHindi": "छोटा / नन्हा",
+    "meaningEnglish": "small / little",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "एक वस्तु जिसके दोनों ओर छोटे-छोटे टुकड़े गिरे हैं (छोटा)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-chiisai"
+    ]
+  },
+  {
+    "id": "k-ue",
+    "groupId": "group-k4",
+    "character": "上",
+    "onyomi": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "うえ",
+      "あ-がる",
+      "のぼ-る"
+    ],
+    "meaningHindi": "ऊपर / श्रेष्ठ",
+    "meaningEnglish": "up / above",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "आधार रेखा के ऊपर खड़ी एक सीधी दिशा सूचक रेखा (ऊपर)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-uwagi"
+    ]
+  },
+  {
+    "id": "k-shita",
+    "groupId": "group-k4",
+    "character": "下",
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "した",
+      "さ-がる",
+      "くだ-る"
+    ],
+    "meaningHindi": "नीचे / कम",
+    "meaningEnglish": "down / below",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "आधार रेखा के नीचे लटकी हुई दिशा सूचक रेखा (नीचे)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kutsushita",
+      "v-shitagi"
+    ]
+  },
+  {
+    "id": "k-naka",
+    "groupId": "group-k4",
+    "character": "中",
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "なか"
+    ],
+    "meaningHindi": "मध्य / अंदर",
+    "meaningEnglish": "middle / inside",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "एक बक्से के बिल्कुल बीचों-बीच से गुजरती हुई लंबवत रेखा।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-senaka"
+    ]
+  },
+  {
+    "id": "k-kuruma",
+    "groupId": "group-k4",
+    "character": "車",
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ],
+    "meaningHindi": "गाड़ी / वाहन",
+    "meaningEnglish": "car / vehicle",
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "mnemonic": "पहियों और धुरी वाली प्राचीन गाड़ी का ऊपर से दृश्य।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kuruma",
+      "v-densha",
+      "v-jitensha"
+    ]
+  },
+  {
+    "id": "k-den",
+    "groupId": "group-k4",
+    "character": "電",
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [],
+    "meaningHindi": "बिजली / विद्युत",
+    "meaningEnglish": "electricity",
+    "strokeCount": 13,
+    "jlptLevel": "N5",
+    "mnemonic": "बारिश के बादलों (雨) से कड़कती हुई तेज़ आकाशीय बिजली।",
+    "note": "इसका केवल ओन्योमी (デン) N5 में मुख्य रूप से प्रयुक्त होता है (जैसे 電車, 電気)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-densha",
+      "v-denwa",
+      "v-denki"
+    ]
+  },
+  {
+    "id": "k-eki",
+    "groupId": "group-k4",
+    "character": "駅",
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "meaningHindi": "स्टेशन (रेलवे)",
+    "meaningEnglish": "train station",
+    "strokeCount": 14,
+    "jlptLevel": "N5",
+    "mnemonic": "घोड़े (馬) जहाँ विश्राम के लिए रुकते थे (स्टेशन)।",
+    "note": "इसका केवल ओन्योमी (エキ) N5 में मुख्य रूप से प्रयुक्त होता है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-eki"
+    ]
+  },
+  {
+    "id": "k-te",
+    "groupId": "group-k4",
+    "character": "手",
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "て",
+      "た-"
+    ],
+    "meaningHindi": "हाथ / हथेली",
+    "meaningEnglish": "hand",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "उंगलियों और कलाई सहित खुली हथेली का रेखाचित्र।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-te",
+      "v-tebukuro"
+    ]
+  },
+  {
+    "id": "k-me",
+    "groupId": "group-k4",
+    "character": "目",
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め",
+      "-め"
+    ],
+    "meaningHindi": "आँख / नयन",
+    "meaningEnglish": "eye",
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "mnemonic": "आँख की पुतली और पलकों का चौकोर रूप।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-me"
+    ]
+  },
+  {
+    "id": "k-yama",
+    "groupId": "group-k5",
+    "character": "山",
+    "onyomi": [
+      "サン",
+      "ザン"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "meaningHindi": "पहाड़ / पर्वत",
+    "meaningEnglish": "mountain",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "तीन चोटियों वाला ऊँचा पर्वत (पहाड़)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-yama"
+    ]
+  },
+  {
+    "id": "k-kawa",
+    "groupId": "group-k5",
+    "character": "川",
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "meaningHindi": "नदी / जलधारा",
+    "meaningEnglish": "river",
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "mnemonic": "किनारों के बीच से कलकल बहती तीन जलधाराएँ (नदी)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-kawa"
+    ]
+  },
+  {
+    "id": "k-mizu",
+    "groupId": "group-k5",
+    "character": "水",
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "みず"
+    ],
+    "meaningHindi": "पानी / जल",
+    "meaningEnglish": "water",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "झरने से गिरती और चारों तरफ छलकती पानी की बूँदें।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-mizu"
+    ]
+  },
+  {
+    "id": "k-ame",
+    "groupId": "group-k5",
+    "character": "雨",
+    "onyomi": [
+      "ウ"
+    ],
+    "kunyomi": [
+      "あめ",
+      "あま-"
+    ],
+    "meaningHindi": "वर्षा / बारिश",
+    "meaningEnglish": "rain",
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "mnemonic": "बादल के नीचे खिड़की से दिखती टप-टप गिरती बारिश की चार बूँदें।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-ame"
+    ]
+  },
+  {
+    "id": "k-ten",
+    "groupId": "group-k5",
+    "character": "天",
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "あまつ",
+      "あめ"
+    ],
+    "meaningHindi": "आकाश / स्वर्ग",
+    "meaningEnglish": "heaven / sky",
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "mnemonic": "व्यक्ति (大) के सिर के भी ऊपर फैला हुआ असीम आकाश (आसमान)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-tenki",
+      "v-tenjou"
+    ]
+  },
+  {
+    "id": "k-ki",
+    "groupId": "group-k5",
+    "character": "気",
+    "onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いき"
+    ],
+    "meaningHindi": "ऊर्जा / मिज़ाज",
+    "meaningEnglish": "spirit / energy / air",
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "mnemonic": "उबलते बर्तन से उठती हुई ऊर्जावान भाप (ऊर्जा / मनोदशा)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-tenki",
+      "v-genki",
+      "v-denki"
+    ]
+  },
+  {
+    "id": "k-i",
+    "groupId": "group-k5",
+    "character": "行",
+    "onyomi": [
+      "コウ",
+      "ギョウ",
+      "アン"
+    ],
+    "kunyomi": [
+      "い-く",
+      "ゆ-く",
+      "おこな-う"
+    ],
+    "meaningHindi": "जाना / प्रस्थान",
+    "meaningEnglish": "to go",
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "mnemonic": "चौराहे की सड़क जहाँ से लोग आगे बढ़ते और जाते हैं।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-ginkou",
+      "v-iku",
+      "v-hikouki",
+      "v-ryokou"
+    ]
+  },
+  {
+    "id": "k-ta",
+    "groupId": "group-k5",
+    "character": "食",
+    "onyomi": [
+      "ショク",
+      "ジキ"
+    ],
+    "kunyomi": [
+      "た-べる",
+      "く-う"
+    ],
+    "meaningHindi": "खाना / भोजन करना",
+    "meaningEnglish": "to eat / food",
+    "strokeCount": 9,
+    "jlptLevel": "N5",
+    "mnemonic": "छत के नीचे थाली में अच्छा भोजन (खाना)।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-taberu"
+    ]
+  },
+  {
+    "id": "k-no",
+    "groupId": "group-k5",
+    "character": "飲",
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "の-む"
+    ],
+    "meaningHindi": "पीना / पेय लेना",
+    "meaningEnglish": "to drink",
+    "strokeCount": 12,
+    "jlptLevel": "N5",
+    "mnemonic": "भोजन (飠) के साथ मुँह खोलकर (欠) पानी या चाय पीना।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-nomu"
+    ]
+  },
+  {
+    "id": "k-mi",
+    "groupId": "group-k5",
+    "character": "見",
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "み-る",
+      "み-える",
+      "み-せる"
+    ],
+    "meaningHindi": "देखना / अवलोकन",
+    "meaningEnglish": "to see / to look",
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "mnemonic": "आँख (目) दो पैरों पर चलकर किसी चीज़ को ध्यान से देख रही है।",
+    "needs_review": true,
+    "linkedVocabIds": [
+      "v-miru"
+    ]
+  }
+]

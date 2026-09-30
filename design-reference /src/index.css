@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&family=Noto+Serif+JP:wght@400;700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-jp-red: #BC2025;
+  --color-jp-red-dark: #8B1519;
+  --color-navy: #0D1B4B;
+  --color-navy-light: #162560;
+  --color-saffron: #FF9933;
+  --color-saffron-light: #FFB366;
+  --color-leaf: #138808;
+  --color-leaf-light: #1AAD0A;
+  --color-ash: #F7F7F8;
+  --color-border: #E8E8EC;
+  --font-sans: 'Noto Sans', system-ui, sans-serif;
+  --font-jp: 'Noto Serif JP', serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Noto Sans', system-ui, sans-serif;
+  background: #ffffff;
+  color: #0D1B4B;
+  -webkit-font-smoothing: antialiased;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100px #ffffff inset;
+  -webkit-text-fill-color: #0D1B4B;
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #E8E8EC; border-radius: 2px; }
+
+::selection {
+  background: rgba(188, 32, 37, 0.12);
+  color: #BC2025;
+}

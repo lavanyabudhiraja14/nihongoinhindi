@@ -1,0 +1,165 @@
+[
+  {
+    "id": "lw-coffee",
+    "word": "コーヒー",
+    "romaji": "koohii",
+    "englishMeaning": "coffee",
+    "hindiMeaning": "कॉफ़ी",
+    "needs_review": true
+  },
+  {
+    "id": "lw-tv",
+    "word": "テレビ",
+    "romaji": "terebi",
+    "englishMeaning": "television / TV",
+    "hindiMeaning": "टेलीविज़न / टीवी",
+    "needs_review": true
+  },
+  {
+    "id": "lw-hotel",
+    "word": "ホテル",
+    "romaji": "hoteru",
+    "englishMeaning": "hotel",
+    "hindiMeaning": "होटल",
+    "needs_review": true
+  },
+  {
+    "id": "lw-bus",
+    "word": "バス",
+    "romaji": "basu",
+    "englishMeaning": "bus",
+    "hindiMeaning": "बस",
+    "needs_review": true
+  },
+  {
+    "id": "lw-cake",
+    "word": "ケーキ",
+    "romaji": "keeki",
+    "englishMeaning": "cake",
+    "hindiMeaning": "केक",
+    "needs_review": true
+  },
+  {
+    "id": "lw-camera",
+    "word": "カメラ",
+    "romaji": "kamera",
+    "englishMeaning": "camera",
+    "hindiMeaning": "कैमरा",
+    "needs_review": true
+  },
+  {
+    "id": "lw-taxi",
+    "word": "タクシー",
+    "romaji": "takushii",
+    "englishMeaning": "taxi",
+    "hindiMeaning": "टैक्सी",
+    "needs_review": true
+  },
+  {
+    "id": "lw-bread",
+    "word": "パン",
+    "romaji": "pan",
+    "englishMeaning": "bread",
+    "hindiMeaning": "पाव / ब्रेड",
+    "noteHindi": "पुर्तगाली शब्द 'Pão' (पांव) से आया है।",
+    "needs_review": true
+  },
+  {
+    "id": "lw-ice",
+    "word": "アイス",
+    "romaji": "aisu",
+    "englishMeaning": "ice cream",
+    "hindiMeaning": "आइसक्रीम",
+    "noteHindi": "यह जापानी शैली का संक्षिप्त रूप (Japanese abbreviation) है, जो 'आइसक्रीम' (Ice cream) को छोटा करके बना है।",
+    "needs_review": true
+  },
+  {
+    "id": "lw-juice",
+    "word": "ジュース",
+    "romaji": "juusu",
+    "englishMeaning": "juice",
+    "hindiMeaning": "जूस / शरबत",
+    "needs_review": true
+  },
+  {
+    "id": "lw-soccer",
+    "word": "サッカー",
+    "romaji": "sakkaa",
+    "englishMeaning": "soccer / football",
+    "hindiMeaning": "फ़ुटबॉल / सॉकर",
+    "needs_review": true
+  },
+  {
+    "id": "lw-restaurant",
+    "word": "レストラン",
+    "romaji": "resutoran",
+    "englishMeaning": "restaurant",
+    "hindiMeaning": "रेस्टोरेंट / भोजनालय",
+    "needs_review": true
+  },
+  {
+    "id": "lw-notebook",
+    "word": "ノート",
+    "romaji": "nooto",
+    "englishMeaning": "notebook",
+    "hindiMeaning": "नोटबुक / कॉपी",
+    "needs_review": true
+  },
+  {
+    "id": "lw-pen",
+    "word": "ペン",
+    "romaji": "pen",
+    "englishMeaning": "pen",
+    "hindiMeaning": "पेन / कलम",
+    "needs_review": true
+  },
+  {
+    "id": "lw-bed",
+    "word": "ベッド",
+    "romaji": "beddo",
+    "englishMeaning": "bed",
+    "hindiMeaning": "बिस्तर / बेड",
+    "needs_review": true
+  },
+  {
+    "id": "lw-shirt",
+    "word": "シャツ",
+    "romaji": "shatsu",
+    "englishMeaning": "shirt",
+    "hindiMeaning": "कमीज़ / शर्ट",
+    "needs_review": true
+  },
+  {
+    "id": "lw-toilet",
+    "word": "トイレ",
+    "romaji": "toire",
+    "englishMeaning": "toilet / washroom",
+    "hindiMeaning": "शौचालय / वॉशरूम",
+    "needs_review": true
+  },
+  {
+    "id": "lw-door",
+    "word": "ドア",
+    "romaji": "doa",
+    "englishMeaning": "door",
+    "hindiMeaning": "दरवाज़ा / डोर",
+    "needs_review": true
+  },
+  {
+    "id": "lw-table",
+    "word": "テーブル",
+    "romaji": "teeburu",
+    "englishMeaning": "table",
+    "hindiMeaning": "मेज़ / टेबल",
+    "needs_review": true
+  },
+  {
+    "id": "lw-pc",
+    "word": "パソコン",
+    "romaji": "pasokon",
+    "englishMeaning": "personal computer / PC / laptop",
+    "hindiMeaning": "कंप्यूटर / लैपटॉप",
+    "noteHindi": "यह जापानी शैली का संक्षिप्त रूप (Japanese abbreviation) है, जो 'Pasōnaru Konpyūta' (Personal Computer) को छोटा करके बना है।",
+    "needs_review": true
+  }
+]
